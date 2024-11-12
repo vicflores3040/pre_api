@@ -1,0 +1,3687 @@
+[
+    {
+        "id": 1,
+        "accommodation": "Hotel Finca Campo Bello",
+        "location": "Cerro Verde",
+        "latitude": 13.832236398485122, 
+        "longitude": -89.63933805761802,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603917/Hotel%20Finca%20Campo%20Bello.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603914/Hotel%20Finca%20Campo%20Bello1.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603914/Hotel%20Finca%20Campo%20Bello2.png"
+        ],
+        "comments": [
+            "Vistas impresionantes al volcan y al lago.",
+            "Excelente para desconectarse y disfrutar de la naturaleza.",
+            "La comida en el restaurante es deliciosa."
+        ]
+    },
+    {
+        "id": 2,
+        "accommodation": "Los Almendros de San Lorenzo",
+        "location": "Suchitoto",
+        "latitude": 13.93818287482132,
+        "longitude": -89.02559169343151,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603917/Los%20Almendros%20de%20San%20Lorenzo1.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603916/Los%20Almendros%20de%20San%20Lorenzo3.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603916/Los%20Almendros%20de%20San%20Lorenzo.png"
+        ],
+        "comments": [
+            "Un hotel lleno de historia y encanto.",
+            "La decoracion y el ambiente son fantasticos",
+            "Perfecto para una escapada romantica."
+        ]
+    },
+    {
+        "id": 3,
+        "accommodation": "Boutique Hotel Los Almendros de San Lorenzo",
+        "location": "San Lorenzo",
+        "latitude": 13.93746043336437,
+        "longitude": -89.02676690317928,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603913/Boutique%20Hotel%20Los%20Almendros%20de%20San%20Lorenzo1.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603913/Boutique%20Hotel%20Los%20Almendros%20de%20San%20Lorenzo2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603912/Boutique%20Hotel%20Los%20Almendros%20de%20San%20Lorenzo.png"
+        ],
+        "comments": [
+            "Magnífico Lugar",
+            "Recomendadisimo",
+            "Mi favorito para ir en familia o en pareja"
+        ]
+    },
+    {
+        "id": 4,
+        "accommodation": "La Posada de Suchitlán",
+        "location": "Suchitlán",
+        "latitude": 13.939449302158605, 
+        "longitude": -89.02969587535225,
+        "environment": "Montaña",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603917/La%20Posada%20de%20Suchitl%C3%A1n.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603916/La%20Posada%20de%20Suchitl%C3%A1n2.png"
+        ],
+        "comments": [
+            "Vista linda",
+            "buena atención",
+            "El servicio es excelente"
+        ]
+    },
+    {
+        "id": 5,
+        "accommodation": "El nidito de flor de pajaro",
+        "location": "Suchitoto",
+        "latitude": 13.939212322621014,  
+        "longitude": -89.0234225783132,
+        "environment": "Montaña",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603914/El%20nidito%20de%20flor%20de%20pajaro1.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603914/El%20nidito%20de%20flor%20de%20pajaro.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603912/El%20nidito%20de%20flor%20de%20pajaro2.png"
+        ],
+        "comments": [
+            "Muy bonito el lugar",
+            "La la vista y todo muy hermosa",
+            "Está serca del la iglesia"
+        ]
+    },
+    {
+        "id": 6,
+        "accommodation": "Casa de la Abuela - Petit Hotel",
+        "location": "Playa Ejemplo",
+        "latitude": 13.936860841412814, 
+        "longitude": -89.02534126470849,
+        "environment": "Montaña",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605278/asa%20de%20la%20Abuela%20-%20Petit%20Hotel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605278/Casa%20de%20la%20Abuela%20-%20Petit%20Hotel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605277/Casa%20de%20la%20Abuela%20-%20Petit%20Hotel2.png"
+        ],
+        "comments": [
+            "Si van a suchitoto y quieren tomar un café este lugar es la mejor opción",
+            "Un lugar simplemente único",
+            "Es increíble el estilo que le han dado."
+        ]
+    },
+    {
+        "id": 7,
+        "accommodation": "Hostal El Porrón",
+        "location": "Suchitoto",
+        "latitude": 13.937371592319556, 
+        "longitude": -89.02453765015022,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605551/Hostal%20El%20Porr%C3%B3n.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605551/Hostal%20El%20Porr%C3%B3n2.png"
+        ],
+        "comments": [
+            "Muy bonito y comodo",
+            "Precios accesibles"
+        ]
+    },
+    {
+        "id": 8,
+        "accommodation": "Terrazas Guest House",
+        "location": "Suchitoto",
+        "latitude": 13.935848874483527, 
+        "longitude": -89.02705977365454,
+        "environment": "Montaña",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605854/Terrazas%20Guest%20House.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605854/Terrazas%20Guest%20House2.png"
+        ],
+        "comments": [
+            "Puedo confirmar que este lugar es el mejor para hospedarse",
+            "La relación calidad-precio es insuperable",
+            "Nos encantó la ubicación céntrica del lugar"
+        ]
+    },
+    {
+        "id": 9,
+        "accommodation": "Bella Habitación El Mangal B&B",
+        "location": "Suchitoto",
+        "latitude": 13.932039515354518, 
+        "longitude": -89.02615187917718,
+        "environment": "Montaña",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606200/Bella%20Habitacion%20El%20Mangal.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606199/Bella%20Habitaci%C3%B3n%20El%20Mangal2.png"
+        ],
+        "comments": [
+            "Buena atención por parte del anfitrión",
+            "Excelente lugar, Cómodo y acogedor",
+            "Lo recomiendo 100%"
+        ]
+    },
+    {
+        "id": 10,
+        "accommodation": "Hostal del Tío Elmer",
+        "location": "Azacualpa",
+        "latitude": 13.987489596801995, 
+        "longitude": -88.9837700549141,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606587/Hostal%20del%20T%C3%ADo%20Elmer.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606585/Hostal%20del%20T%C3%ADo%20Elmer2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606585/Hostal%20del%20T%C3%ADo%20Elmer3.png"
+        ],
+        "comments": [
+            "Bonito y limpio.",
+            "Un pueblo muy bonito en Chalatenango",
+            "Recomiendo visitarlo"
+        ]
+    },
+    {
+        "id": 11,
+        "accommodation": "La Posada de Don Santana",
+        "location": "Azacualpa",
+        "latitude": 13.987894997751887, 
+        "longitude": -88.9836001119205,
+        "environment": "Montaña",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606831/La%20Posada%20de%20Don%20Santana.png"
+        ],
+        "comments": [
+            "Te sientes en familia, excelente lugar!!",
+            "incomparable lugar"
+        ]
+    },
+    {
+        "id": 12,
+        "accommodation": "La Cumbre Tesoro Escondido",
+        "location": "Apaneca",
+        "latitude": 13.873395969915268,
+        "longitude": -89.80471713326851,
+        "environment": "Montaña",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607141/La%20Cumbre%20Tesoro%20Escondido.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607140/La%20Cumbre%20Tesoro%20Escondido2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607139/La%20Cumbre%20Tesoro%20Escondido3.png"
+        ],
+        "comments": [
+            "Un lugar mágico, ",
+            "Excelente clima muy campestre todo",
+            "Recomendado para poder conectar con la naturaleza"
+        ]
+    },
+    {
+        "id": 13,
+        "accommodation": "Palo Verde Lounge",
+        "location": "Apaneca",
+        "latitude": 13.872479191613175,  
+        "longitude": -89.77909668023071,
+        "environment": "Montaña",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607439/Palo%20Verde%20Lounge2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607440/Palo%20Verde%20Lounge.png"
+        ],
+        "comments": [
+            "Lo máximo palo verde un clima muy rico y agradable",
+            "Excelente gracias un hermoso fin de semana clima excelente",
+            "Un lugar que hemos quedado motivados a regresar"
+        ]
+    },
+    {
+        "id": 14,
+        "accommodation": "Entre Montañas",
+        "location": "Apaneca",
+        "latitude": 13.875152961999989,  
+        "longitude": -89.75756542843708,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607683/Entre%20Monta%C3%B1as.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607681/Entre%20monta%C3%B1as2.png"
+        ],
+        "comments": [
+            "Exelente vista accesible para carro sedan a 9 minutos de juayua comoda y segura",
+            "Muy lindo lugar, seguro y accesible para vehículos pequeños",
+            "Excelente vista desde la cabaña"
+        ]
+    },
+    {
+        "id": 15,
+        "accommodation": "Lechuza Cafe",
+        "location": "Apaneca",
+        "latitude": 13.869999914845994, 
+        "longitude": -89.75628760857501,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607945/Lechuza%20Cafe.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730607944/Lechuza%20Cafe2.png"
+        ],
+        "comments": [
+            "Excelente estancia, super amables y atentos los cuidadores",
+            "Es exelente para pasiar con la familia",
+            "Muy rico café."
+        ]
+    },
+    {
+        "id": 16,
+        "accommodation": "Hotel Juayúa",
+        "location": "Juayúa",
+        "latitude": 13.847049260914146, 
+        "longitude": -89.74248925858844,
+        "environment": "Montaña",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608267/Hotel%20juayua.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608267/Hotel%20juayua2.png"
+        ],
+        "comments": [
+            "Súper recomendado para descansar",
+            "Personal muy amable, comida rica",
+            "Facil de llegar al lugar, hermosa vista y habitación cómoda"
+        ]
+    },
+    {
+        "id": 17,
+        "accommodation": "Hostal Carolinas",
+        "location": "Juayúa",
+        "latitude": 13.840425421253036,  
+        "longitude": -89.74297321820049,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608595/Hostal%20Carolinas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608595/Hostal%20Carolinas2.png"
+        ],
+        "comments": [
+            "Buen servicio y alojamiento de primera",
+            "Se recomienda  excelente !!!",
+            "Buen servicio"
+        ]
+    },
+    {
+        "id": 18,
+        "accommodation": "Samay Hostel & Scooter Rental",
+        "location": "Juayúa",
+        "latitude": 13.844592327081534,  
+        "longitude": -89.7493991184207,
+        "environment": "Montaña",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608929/Samay%20Hostel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608928/Samay.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730608928/Samay2.png"
+        ],
+        "comments": [
+            "Los encargados super amables",
+            "Habitaciones limpias y económicas",
+            "Recomiendo al 100000 este hostal"
+        ]
+    },
+    {
+        "id": 19,
+        "accommodation": "Bourbon Hostal",
+        "location": "Juayúa",
+        "latitude": 13.843198272719388,  
+        "longitude": -89.74807888728918,
+        "environment": "Montaña",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609310/Bourbon.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609308/Bourbon2.png"
+        ],
+        "comments": [
+            "es un lugar perfecto para estar unos días",
+            "Es una opción acogedora para quienes buscan alojamiento en Juayua"
+        ]
+    },
+    {
+        "id": 20,
+        "accommodation": "Hotel Anahúac",
+        "location": "Juayúa",  
+        "latitude": 13.84477298251486,
+        "longitude": -89.74717718745696,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609644/Hotel%20Anah%C3%BAac.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609644/Anahuac2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609643/Anahuac3.png"
+        ],
+        "comments": [
+            "Excelente hostal ubicado a dos cuadras del centro de Juaya",
+            "Las habitaciones muy cómodas, clásicas y frescas",
+            "La atención es muy amable y el patio interior es algo muy precioso."
+        ]
+    },
+    {
+        "id": 21,
+        "accommodation": "Juayúa Loft",
+        "location": "Juayúa",
+        "latitude": 13.842793618853467,  
+        "longitude": -89.74465994969333,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609911/Juay%C3%BAa%20Loft.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609910/Juay%C3%BAa%20Loft2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730609910/Juay%C3%BAa%20Loft3.png"
+        ],
+        "comments": [
+            "Hermoso lugar amplio cómodo limpio barato y acogedor",
+            "Es un apartamento compacto, pero con todas las comodidades y un ambiente hogareño"
+        ]
+    },
+    {
+        "id": 22,
+        "accommodation": "Casa Lolita",
+        "location": "Juayúa",
+        "latitude": 13.845467556317377,  
+        "longitude": -89.74468941429262,
+        "environment": "Monraña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610208/Casa%20Lolita.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610207/Casa%20Lolita2.png"
+        ],
+        "comments": [
+            "Es una casa equipada con todo lo necesario para una estancia satisfactoria",
+            "Fácil acceso, ubicada en el pueblo pero en una zona tranquila",
+            "Su anfitrión proporciona sugerencias de actividades locales así como de lugares para comer"
+        ]
+    },
+    {
+        "id": 23,
+        "accommodation": "Hostal Los Volcanes",
+        "location": "Salcoatitan",
+        "latitude": 13.832076593258721,
+        "longitude": -89.75786536782863,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610491/Hostal%20Los%20Volcanes.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610490/Hostal%20Los%20volcanes2.png"
+        ],
+        "comments": [
+            "Lugar cómodo y buena vista",
+            "Amplias y cómodas habitaciones con hermosas vistas a la Cordillera Ilamatepec",
+            "Si lo ves en  costo por beneficio, entenderas que saldras ganando"
+        ]
+    },
+    {
+        "id": 24,
+        "accommodation": "Casa Las Granadillas",
+        "location": "Salcoatitan",
+        "latitude": 13.824545974051677,  
+        "longitude": -89.75323980306842,
+        "environment": "Montaña",
+        "stars": 3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610753/Casa%20Las%20Granadillas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610752/Casa%20Las%20Granadillas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730610752/Casa%20Las%20Granadillas3.png"
+        ],
+        "comments": [
+            "Un espacio más que todo familiar, a un buen precio.",
+            "Con mucho espacio para relajarse, zona verde y piscina.",
+            "Incluye servicios como agua, tv con cable, cocina y barbacoa incluida, cafetera, ropa de cama y set de toallas"
+        ]
+    },
+    {
+        "id": 25,
+        "accommodation": "Casa El Maracuyá",
+        "location": "Salcoatitan",
+        "latitude": 13.822177716054293, 
+        "longitude": -89.7523309945215, 
+        "environment": "Montaña",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730611064/Casa%20El%20maracuya.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730611063/Casa%20El%20maracuya2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730611063/Casa%20El%20maracuya3.png"
+        ],
+        "comments": [
+            "El lugar es amplio, limpio y seguro.",
+            "Estuvimos muy a gusto con la familia y amigos",
+            "Perfecto para quedarse con la familia, distancia muy accesible a los pueblos vivos, los propietarios muy amables."
+        ]
+    },
+    {
+        "id": 26,
+        "accommodation": "Hotel y Restaurante Perkin Lenca",
+        "location": "Perquin",
+        "latitude": 13.953872753406984, 
+        "longitude": -88.16037185894196,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612142/Hotel%20y%20Restaurante%20Perkin%20Lenca.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612141/Hotel%20y%20Restaurante%20Perkin%20Lenca2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612140/Hotel%20y%20Restaurante%20Perkin%20Lenca3.png"
+        ],
+        "comments": [
+            "Excelente Lugar",
+            "Atención del Personal y el mejor Clima para disfrutar en Familia y Amigos",
+            "Muy buen lugar para pasear en familia"
+        ]
+    },
+    {
+        "id": 27,
+        "accommodation": "Villa Verde",
+        "location": "Perquin",
+        "latitude": 13.962165899711513,
+        "longitude": -88.14155678765117,  
+        "environment": "Montaña",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612432/Villa%20Verde.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612431/Villa%20Verde2.png"
+        ],
+        "comments": [
+            "es la mejor opción para disfrutar en familia o amigos.",
+            "Encuentras tanta naturaleza y tranquilidad que vas a relajarte",
+            "Los tours son increíbles conoces cascadas y te acompañan los peluditos guardianes de la propiedad"
+        ]
+    },
+    {
+        "id": 28,
+        "accommodation": "Cabaña",
+        "location": "Perquin",
+        "latitude": 13.965990071286974,  
+        "longitude": -88.14126291909496,
+        "environment": "Montaña",
+        "stars": 3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612619/Caba%C3%B1a.png"
+        ],
+        "comments": [
+            "Muy bonito",
+            "Bastante acojedor",
+            "Muy comodo y tranquilo"
+        ]
+    },
+    {
+        "id": 29,
+        "accommodation": "Hotel Y Restaurante Arizona",
+        "location": "Perquin",
+        "latitude": 13.963563646271538,  
+        "longitude": -88.12592855470456,
+        "environment": "Montaña",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612847/Hotel%20Y%20Restaurante%20Arizona.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730612845/Hotel%20y%20restaurante%20arizona2.png"
+        ],
+        "comments": [
+            "Si te gusta la privacidad y estar tranquilo te recomiendo este lugar ya que tiene mucho espacio y puedes tener momento relajante y en contacto con la naturaleza",
+            "Buenos precios, y gran comodidad. "
+        ]
+    },
+    {
+        "id": 30,
+        "accommodation": "Hotel y Restaurante Villa Marquez",
+        "location": "Perquin",
+        "latitude": 13.967856236910439,  
+        "longitude": -88.12834991686094,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613123/Hotel%20y%20Restaurante%20Villa%20Marquez.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613123/Hotel%20y%20Restaurante%20Villa%20Marquez2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613122/Hotel%20y%20Restaurante%20Villa%20Marquez3.png"
+        ],
+        "comments": [
+            "Las instalaciones del restaurante y áreas  comunes son bonitas, están limpias y ordenadas",
+            "El personal es amable.",
+            "El tiempo de servicio es aceptable",
+            "Tienen una hermosa piscina perfecta para niños"
+        ]
+    },
+    {
+        "id": 31,
+        "accommodation": "Cabaña de Papa Ton",
+        "location": "Perquin",
+        "latitude": 13.977705868171908, 
+        "longitude": -88.11788292580843,
+        "environment": "Montaña",
+        "stars": 45,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613438/Caba%C3%B1a%20de%20Papa%20Ton.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613438/Caba%C3%B1a%20de%20Papa%20Ton2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613438/Caba%C3%B1a%20de%20Papa%20Ton3.png"
+        ],
+        "comments": [
+            "Sí lo que necesitas en un buen relax y con clima agradable, debes visitar acá",
+            "Lindo lugar muy fresco y pacifico",
+            "Excelente lugar"
+        ]
+    },
+    {
+        "id": 32,
+        "accommodation": "Vida Sana Cades El Salvador",
+        "location": "Perquin",
+        "latitude": 13.941296913161848, 
+        "longitude": -88.166974130282,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613684/Vida%20Sana%20Cades%20El%20Salvador.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613684/Vida%20Sana.png"
+        ],
+        "comments": [
+            "Lugar super recomendable para despejarse y sanar tanto física como espiritualmente",
+            "Bonito lugar rodeado de naturaleza y buena vista.",
+            "Ideal para relajarse, desestresarse y buscar salud."
+        ]
+    },
+    {
+        "id": 33,
+        "accommodation": "Hotel El Ocotal",
+        "location": "Perquin",
+        "latitude": 13.930436511030504,  
+        "longitude": -88.14433555608493,
+        "environment": "Montaña",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613943/Hotel%20El%20Ocotal.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613943/Hotel%20El%20Ocotal2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730613943/Hotel%20ocotal.png"
+        ],
+        "comments": [
+            "Es un buen lugar para hospedarte",
+            "La comida está muy bien y precios accesibles",
+            "El Ocotal es una buena opción para hacer turismo en la zona"
+        ]
+    },
+    {
+        "id": 34,
+        "accommodation": "Vistas del Gigante",
+        "location": "Perquin",
+        "latitude": 13.927682129840885,  
+        "longitude": -88.15170037236402,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730614205/Vistas%20del%20Gigante.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730614204/Vistas%20del%20Gigante2.png"
+        ],
+        "comments": [
+            "Excelente lugar para caminata y camping",
+            "Naturaleza en su máxima expresión para pasar en familia",
+            "Un lugar con una super excelente vista y muy acogedor"
+        ]
+    },
+    {
+        "id": 35,
+        "accommodation": "Arambala Carajo",
+        "location": "Perquin",
+        "latitude": 13.92706173139882,  
+        "longitude": -88.13003783100176,
+        "environment": "Montaña",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730614512/Arambala%20Carajo.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730614513/Arambala%20Carajo2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730614511/Arambala%20Carajo3.png"
+        ],
+        "comments": [
+            "El lugar es grande, tiene un mirador de madera donde puedes comer y disfrutar",
+            "Es un lugar muy acogedor, la atención es excelente"
+        ]
+    },
+    {
+        "id": 36,
+        "accommodation": "Hostal Siesta",
+        "location": "San Fernando",
+        "latitude": 13.960929998423637, 
+        "longitude": -88.15786755471473,
+        "environment": "Montaña",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641393/Hostal%20siesta%202.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641392/Hostal%20Siesta.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641392/Hostal%20siesta3.png"
+        ],
+        "comments": [
+            "Muy bonito y limpio el hostal",
+            "Tienen cocina  compartida y varios lugares para descansar  o sentarse para tomar un café",
+            "El hostal esta céntrico para visitar el museo de la revolución y varias casacadas"
+        ]
+    },
+    {
+        "id": 37,
+        "accommodation": "HLos Pinos - Cabañas y Camping",
+        "location": "San Fernando",
+        "latitude": 13.962636706837364, 
+        "longitude": -88.1378256235812,
+        "environment": "Montaña",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641663/HLos%20Pinos%20-%20Caba%C3%B1as%20y%20Camping.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641663/HLos%20Pinos%20-%20Caba%C3%B1as%20y%20Camping2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641663/HLos%20Pinos%20-%20Caba%C3%B1as%20y%20Camping3.png"
+        ],
+        "comments": [
+            "Es un lugar bello y excelente para poder relajarse y estar en naturaleza",
+            "Los precios son razonables y tiene lugares para caminar y explorar un poco",
+            "Mi parte favorita es llegar al mirador"
+        ]
+    },
+    {
+        "id": 38,
+        "accommodation": "La Posada de Don Manuel",
+        "location": "San Fernando",
+        "latitude": 13.95553963295204,  
+        "longitude": -88.15529120338694,
+        "environment": "Montaña",
+        "stars": 3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641912/La%20Posada%20de%20Don%20Manuel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641912/La%20Posada%20de%20Don%20Manuel2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730641911/La%20Posada%20de%20Don%20Manuel3.png"
+        ],
+        "comments": [
+            "Es un lugar económico.",
+            "Bastante sencillo y atendido por una familia bastante tradicional se sienten buenas personas. ",
+            "El desayuno sencillo pero rico"
+        ]
+    },
+    {
+        "id": 39,
+        "accommodation": "El rinconcito de Tejera",
+        "location": "San Fernando",
+        "latitude": 13.948196981457844,  
+        "longitude": -88.13502533019098,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642097/El%20rinconcito%20de%20Tejera.png"
+        ],
+        "comments": [
+            "Muy bonito",
+            "Barato y comodo",
+            "Perfecto para pasar con la familia"
+        ]
+    },
+    {
+        "id": 40,
+        "accommodation": "Hotel y Restaurante Las Margaritas",
+        "location": "San Fernando",
+        "latitude": 13.950237693780009,  
+        "longitude": -88.14242492556406,
+        "environment": "PlaMontañaya",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642307/Hotel%20y%20Restaurante%20Las%20Margaritas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642307/Hotel%20y%20Restaurante%20Las%20Margaritas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642305/Hotel%20y%20Restaurante%20Las%20Margaritas3.png"
+        ],
+        "comments": [
+            "Una muy buen recomendable lugar",
+            "Encantador y de primera calidad",
+            "Con un servicio muy amable y muy atentos"
+        ]
+    },
+    {
+        "id": 41,
+        "accommodation": "Hostal Don Luis",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.626925992574117,  
+        "longitude": -87.88478015920317,
+        "environment": "Montaña",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642712/Hostal%20Don%20Luis.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642720/Hostal%20Don%20Luis2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642712/Hostal%20Don%20Luis3.png"
+        ],
+        "comments": [
+            "Un lugar muy bello",
+            "100% recomendable las habitaciones son super cómodas, aseadas",
+            "Tienen aire acondicionado y de calor no se sufre, la atención 10 de 10"
+        ]
+    },
+    {
+        "id": 42,
+        "accommodation": "Hotel Mediterraneo Inn",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.628560665573175,  
+        "longitude": -87.89109216446788, 
+        "environment": "Montaña",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642991/Hotel%20Mediterraneo%20Inn.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642991/Hotel%20Mediterraneo%20Inn2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730642990/Hotel%20Mediterraneo%20Inn3.png"
+        ],
+        "comments": [
+            "Hermoso y pequeño hotel",
+            "Limpio, amigable, seguro y buen desayuno",
+            "De los mejores hoteles en santa rosa muy céntrico"
+        ]
+    },
+    {
+        "id": 43,
+        "accommodation": "Hotel Los Hermanos",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.626680596162705, 
+        "longitude": -87.88937793399454,
+        "environment": "Montaña",
+        "stars": 3.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643236/Hotel%20Los%20Hermanos.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643236/Hotel%20Los%20Hermanos2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643234/Hotel%20Los%20Hermanos3.png"
+        ],
+        "comments": [
+            "Muy bonito, en el centro de Santa Rosa de Lima",
+            "Personal muy amable excelente atención",
+            "Hotel bonito, cómodo, barato,"
+        ]
+    },
+    {
+        "id": 44,
+        "accommodation": "Hotel El Tejano Amigo",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.635604356565258,  
+        "longitude": -87.89211998721856,
+        "environment": "Montaña",
+        "stars": 3.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643450/Hotel%20El%20Tejano%20Amigo.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643449/Hotel%20El%20Tejano%20Amigo32.png"
+        ],
+        "comments": [
+            "Muy excelente",
+            "Buena opción para alojarse en Santa Rosa de Lima",
+            "Cómodo y buen precio"
+        ]
+    },
+    {
+        "id": 45,
+        "accommodation": "Casa 19",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.639275946787517,  
+        "longitude": -87.87690693137777,
+        "environment": "Montaña",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643626/Casa%2019.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643626/Casa%20192.png"
+        ],
+        "comments": [
+            "Muy bonito",
+            "Bastante comodo"
+        ]
+    },
+    {
+        "id": 46,
+        "accommodation": "Hotel El Mago",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.632093060294423,  
+        "longitude": -87.85249484870627,
+        "environment": "Montaña",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730643815/Hotel%20El%20Mago.png"
+        ],
+        "comments": [
+            "Muy bien bien ambiente",
+            "Hermoso bello lugar",
+            "Lo recomiendo a todas las personas"
+        ]
+    },
+    {
+        "id": 47,
+        "accommodation": "Hotel El Paladium",
+        "location": "Santa Rosa de Lima",
+        "latitude": 13.621722006353522,  
+        "longitude": -87.85690347733825,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644027/Hotel%20El%20Paladium.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644027/Hotel%20El%20Paladium2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644027/Hotel%20El%20Paladium3.png"
+        ],
+        "comments": [
+            "Buena atención y lo mejor esta abierto hasta las 9.00pm"
+        ]
+    },
+    {
+        "id": 48,
+        "accommodation": "Cabañas y Restaurante Allá Arriba",
+        "location": "Miramundo",
+        "latitude": 14.344196752742068,  
+        "longitude": -89.11416713745884,
+        "environment": "Montaña",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644362/aba%C3%B1as%20y%20Restaurante%20All%C3%A1%20Arriba3.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644361/Caba%C3%B1as%20y%20Restaurante%20All%C3%A1%20Arriba.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644362/Caba%C3%B1as%20y%20Restaurante%20All%C3%A1%20Arriba2.png"
+        ],
+        "comments": [
+            "la comida muy buena y el personal amable",
+            "Un bello lugar en armonía con la naturaleza",
+            "Un lugar muy bonito, clima sumamente agradable"
+        ]
+    },
+    {
+        "id": 49,
+        "accommodation": "Un rincón cerca del cielo",
+        "location": "Miramundo",
+        "latitude": 14.342518759261333,  
+        "longitude": -89.11386151404642,
+        "environment": "Montaña",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644584/Un%20rinc%C3%B3n%20cerca%20del%20cielo.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644583/Un%20rinc%C3%B3n%20cerca%20del%20cielo2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644583/Un%20rinc%C3%B3n%20cerca%20del%20cielo3.png"
+        ],
+        "comments": [
+            "5 Ezstrellas"
+        ]
+    },
+    {
+        "id": 50,
+        "accommodation": "El Rinconcito",
+        "location": "Miramundo",
+        "latitude": 14.341928671701764,  
+        "longitude": -89.11397396060809,
+        "environment": "Montaña",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644818/El%20Rinconcito.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644817/El%20Rinconcito2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730644817/El%20Rinconcito3.png"
+        ],
+        "comments": [
+            "Muy bonito"
+        ]
+    },
+    {
+        "id": 51,
+        "accommodation": "Rancho Paraiso",
+        "location": "El Zapote",
+        "latitude": 13.705756602068353,  
+        "longitude": -90.0340138613056,
+        "environment": "Playa",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645134/Rancho%20Paraiso.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645133/Rancho%20Paraiso2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645133/Rancho%20Paraiso3.png"
+        ],
+        "comments": [
+            "Hermosa naturaleza y la mejor ubicación",
+            "Es muy bueno",
+            "Buenas vistas"
+        ]
+    },
+    {
+        "id": 52,
+        "accommodation": "La Cocotera Resort & Ecolodge",
+        "location": "El Zapote",
+        "latitude": 13.70112785276165,  
+        "longitude": -90.02664890617937,
+        "environment": "Playa",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645364/La%20Cocotera%20Resort%20Ecolodge.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645363/La%20Cocotera%20Resort%20%20Ecolodge2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645363/La%20Cocotera%20Resort%20Ecolodge3.png"
+        ],
+        "comments": [
+            "Me encantó este lugar",
+            "La pasamos de lo mejor con mi novia",
+            "Las habitaciones son muy bonitas y la atención muy agradable"
+        ]
+    },
+    {
+        "id": 53,
+        "accommodation": "Rancho Bocamar",
+        "location": "El Zapote",
+        "latitude": 13.701799900229135,  
+        "longitude": -90.02359342884446,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645618/Rancho%20Bocamar.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645618/Rancho%20Bocamar2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645618/Rancho%20Bocamar3.png"
+        ],
+        "comments": [
+            "Excelente ubicación, acceso inmediato a la bocana y a la playa",
+            "Instalaciones cómodas, servicio completo y limpieza excelente",
+            "Un lugar amplio para disfrutar con amigos y familia"
+        ]
+    },
+    {
+        "id": 54,
+        "accommodation": "Rancho ISIDORITO",
+        "location": "El Zapote",
+        "latitude": 13.699795041704899,  
+        "longitude": -90.02032441269262,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645847/Rancho%20ISIDORITO.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645847/Rancho%20ISIDORITO2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730645846/Rancho%20ISIDORITO3.png"
+        ],
+        "comments": [
+            "Un ranchoo muy limpio",
+            "Comodo",
+            "Confortable"
+        ]
+    },
+    {
+        "id": 55,
+        "accommodation": "Rancho Palmeral",
+        "location": "El Zapote",
+        "latitude": 13.696829491931183, 
+        "longitude": -90.01567893409539,
+        "environment": "Playa",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646086/Rancho%20Palmeral.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646085/Rancho%20Palmeral2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646084/Rancho%20Palmeral3.png"
+        ],
+        "comments": [
+            "Exelente ambiente",
+            "Lugar y recamaras muy lindas muy bonito para pasar en familia"
+        ]
+    },
+    {
+        "id": 56,
+        "accommodation": "Hostal El Abuelo",
+        "location": "Barra de Santiago",
+        "latitude": 13.693432908096613,  
+        "longitude": -90.00781553018241,
+        "environment": "Playa",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646367/Hostal%20El%20Abuelo.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646367/Hostal%20El%20Abuelo2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646366/Hostal%20El%20Abuelo3.png"
+        ],
+        "comments": [
+            "Hermoso lugar, muy tranquilo y cerca del mar",
+            "Buen lugar para estas vacaciones Recomendamos visitar",
+            "Hermoso lugar, tranquilo y perfecto para relajarse"
+        ]
+    },
+    {
+        "id": 57,
+        "accommodation": "Rancho El Manglar",
+        "location": "Barra de Santiago",
+        "latitude": 13.6890965792164,  
+        "longitude": -89.99930377426966,
+        "environment": "Playa",
+        "stars": 3.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646599/Rancho%20El%20Manglar.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646599/Rancho%20El%20Manglar2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646599/Rancho%20El%20Manglar3.png"
+        ],
+        "comments": [
+            "La naturaleza de este lugar es divine",
+            "5 Estrellas"
+        ]
+    },
+    {
+        "id": 58,
+        "accommodation": "Rancho El Tio",
+        "location": "Barra de Santiago",
+        "latitude": 13.687776137567996,  
+        "longitude": -89.99788563810358,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646785/Rancho%20El%20Tio.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730646784/Rancho%20El%20Tio2.png"
+        ],
+        "comments": [
+            "Un lugar precioso"
+        ]
+    },
+    {
+        "id": 59,
+        "accommodation": "Rancho Miramar",
+        "location": "Barra de Santiago",
+        "latitude": 13.682738357211747,  
+        "longitude": -89.98720942937393,
+        "environment": "Playa",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647056/Rancho%20Miramar.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647055/Rancho%20Miramar2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647054/Rancho%20Miramar3.png"
+        ],
+        "comments": [
+            "Super bonito, un ambiente relajante",
+            "Un excelente rancho a la orilla de la playa",
+            "La playa es bonita y agradable"
+        ]
+    },
+    {
+        "id": 60,
+        "accommodation": "Rancho Costa Dorada",
+        "location": "Barra de Santiago",
+        "latitude": 13.682053034324408,  
+        "longitude": -89.98497954258796,
+        "environment": "Playa",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647297/Rancho%20Costa%20Dorada.png"          
+        ],
+        "comments": [
+            "Un lugar muy acogedor que cubre todas las expectativas para vacacionar y disfrutar en familia",
+            "Lugar muy precioso,de fácil acceso a la playa,piscina muy bonita",
+            "Un bonito lugar para descansar y pasar en familia"
+        ]
+    },
+    {
+        "id": 61,
+        "accommodation": "Restaurante y Hotel Brisas Marinas",
+        "location": "Los Cobanos",
+        "latitude": 13.541169023505981,  
+        "longitude": -89.82053044960271,
+        "environment": "Playa",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647580/Restaurante%20y%20Hotel%20Brisas%20Marinas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647579/Restaurante%20y%20Hotel%20Brisas%20Marinas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730647579/Restaurante%20y%20Hotel%20Brisas%20Marinas3.png"
+        ],
+        "comments": [
+            "Muy buen lugar , su playa muy limpia su comida muy buena y UN Lugar muy limpio ,su personal muy amable , lo visitare siempre que visite mi pais",
+            "Muy bonito lugar, el servicio es excelente el personal muy amable y servicial, el local es un sueño"
+        ]
+    },
+    {
+        "id": 62,
+        "accommodation": "Casa Coral Boutique Hotel",
+        "location": "Los Cobanos",
+        "latitude": 13.53927926130526,  
+        "longitude": -89.81829516812253,
+        "environment": "Playa",
+        "stars": 3.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649188/Casa%20Coral%20Boutique%20Hotel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649188/Casa%20Coral%20Boutique%20Hotel2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649188/Casa%20Coral%20Boutique%20Hotel3.png"
+        ],
+        "comments": [
+            "Muy bonita experiencia, todo es muy lindo!",
+            "El personal muy atento, las habitaciones son cómodas  las opciones de comida  son super , deliciosas",
+            "El personal empezando de recepción  son bien amables y atentos!!!"
+        ]
+    },
+    {
+        "id": 63,
+        "accommodation": "Villa Capri",
+        "location": "Los Cobanos",
+        "latitude": 13.537852143525141,  
+        "longitude": -89.81842483085146,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649456/Villa%20Capri.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649456/Villa%20Capri2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649455/Villa%20Capri3.png"
+        ],
+        "comments": [
+            "Me encantó el lugar, a las personas que anteriormente habían visitado el rancho, con la administración anterior, se podrán dar cuenta que es un  gran cambio en las instalaciones",
+            "Todo muy aseado, buena atención, las habitaciones muy cómodas, la decoración del rancho está muuy bonita, no hay necesidad de llevar utensilios para cocinar ni comer, pues ahí tienen",
+            "Los recomiendo al 100%."
+        ]
+    },
+    {
+        "id": 64,
+        "accommodation": "Villa Bachata Rosa",
+        "location": "Los Cobanos",
+        "latitude": 13.530392175322666,  
+        "longitude": -89.80947697122896,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649715/Villa%20Bachata%20Rosa.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649714/Villa%20Bachata%20Rosa2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649714/Villa%20Bachata%20Rosa3.png"
+        ],
+        "comments": [
+            "Un lugar espectacular  donde puedes pasar momentos  en familia y amigos",
+            "Super  cómodo y accesible",
+            "Exelente lugar, para disfrutar"
+        ]
+    },
+    {
+        "id": 65,
+        "accommodation": "Ranchos Privados Playa El Flor",
+        "location": "Los Cobanos",
+        "latitude": 13.527700522681773,  
+        "longitude": -89.78969916419857,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649985/Ranchos%20Privados%20Playa%20El%20Flor.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649985/Ranchos%20Privados%20Playa%20El%20Flor2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730649984/Ranchos%20Privados%20Playa%20El%20Flor3.png"
+        ],
+        "comments": [
+            "Vistas maravillosas",
+            "Un lugar  muy  tranquilo y  muy  cómodo para disfrutar con toda la familia me  encanto",
+            "Muy bonito ..! El mar  la playa todo muy lindo"
+        ]
+    },
+    {
+        "id": 66,
+        "accommodation": "NAIA - Miravalle",
+        "location": "Los Cobanos",
+        "latitude": 13.532146992023042,  
+        "longitude": -89.75844768873272,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650289/NAIA%20-%20Miravalle.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650289/NAIA%20-%20Miravalle2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650288/NAIA%20-%20Miravalle3.png"
+        ],
+        "comments": [
+            "La localización esta muy bien",
+            "El lugar es muy acogedor y privado, las habitaciones son muy cómodas y limpias",
+            "El lugar es súper relajante y bastante bonito"
+        ]
+    },
+    {
+        "id": 67,
+        "accommodation": "Rancho Roscan",
+        "location": "Miravalle",
+        "latitude": 13.530998620784175,  
+        "longitude": -89.75268270423781,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650555/Rancho%20Roscan3.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650556/Rancho%20Roscan.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730650556/Rancho%20Roscan2.png"
+        ],
+        "comments": [
+            "Muy bonita las instalaciones se los recomiendo",
+            "Muy grande para toda la familia",
+            "Muy privado y exclusivo"
+        ]
+    },
+    {
+        "id": 68,
+        "accommodation": "Casa V Mizata",
+        "location": "Mizata",
+        "latitude": 13.512149479761964, 
+        "longitude": -89.59701517224028,
+        "environment": "Playa",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651212/Casa%20V%20Mizata.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651211/Casa%20V%20Mizata2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651211/Casa%20V%20Mizata3.png"
+        ],
+        "comments": [
+            "Casa V es un concepto unico en Mizata,",
+            "A unos minutos de la playa, la pasamos muy bien, los contenedores estan completamente equipados, muy comodos",
+            "Las instalaciones muy limpias y la atencion 20/10, tienen renta de tablas de surf disponible tambien"
+        ]
+    },
+    {
+        "id": 69,
+        "accommodation": "Casaola Mizata",
+        "location": "Mizata",
+        "latitude": 13.511771770822634,  
+        "longitude": -89.59752004369167,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651489/Casaola%20Mizata.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651489/Casaola%20Mizata2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651489/Casaola%20Mizata3.png"
+        ],
+        "comments": [
+            "Excelente sitio, excelente precio de la habitación",
+            "Tiene piscina, una area para hacer ejercicio con máquinas y pesas",
+            "Colchón de yoga. También tiene un salón con aire acondicionado por si hay que trabajar"
+        ]
+    },
+    {
+        "id": 70,
+        "accommodation": "Mizata Bunkhouse",
+        "location": "Mizata",
+        "latitude": 13.51139217880059,  
+        "longitude": -89.59674105440777,
+        "environment": "Playa",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651710/Mizata%20Bunkhouse.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651709/Mizata%20Bunkhouse2.png"
+        ],
+        "comments": [
+            "Es un lugar bellisimo y la etencion de primera calidad"
+        ]
+    },
+    {
+        "id": 71,
+        "accommodation": "Meraki",
+        "location": "Mizata",
+        "latitude": 13.512228755365548,  
+        "longitude": -89.59636325896535,
+        "environment": "Playa",
+        "stars": 3.5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651914/Meraki.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651914/Meraki2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730651913/Meraki3.png"
+        ],
+        "comments": [
+            "Angie ,una chica adorable. Te hace sentir que valio la pena el rentar",
+            "Excelente lugar, ideal para disfrutar en familia y con amigos"
+        ]
+    },
+    {
+        "id": 72,
+        "accommodation": "El Rancho de Don Moncho",
+        "location": "Taquilo",
+        "latitude": 3.498733453190802,  
+        "longitude": -89.48779052171173,
+        "environment": "Playa",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652210/El%20Rancho%20de%20Don%20Moncho.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652210/El%20Rancho%20de%20Don%20Moncho2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652210/El%20Rancho%20de%20Don%20Moncho3.png"
+        ],
+        "comments": [
+            "Es un excelente lugar para pasar un fin de semana, ambiente familiar, habitaciones cómodas y el servicio es muy bueno",
+            "Buena ubicación, buena atención, y lo mejor es que la comida está muy buena",
+            "Increíble lugar para darse un descanso, buena comida y la atención excelente."
+        ]
+    },
+    {
+        "id": 73,
+        "accommodation": "Casa En El Risco",
+        "location": "Taquilo",
+        "latitude": 13.49842009191266,  
+        "longitude": -89.48788488902511,
+        "environment": "Playa",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652671/Casa%20En%20El%20Risco.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652670/Casa%20En%20El%20Risco2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652670/Casa%20En%20El%20Risco3.png"
+        ],
+        "comments": [
+            "Muy bonito todo"
+        ]
+    },
+    {
+        "id": 74,
+        "accommodation": "SHALPA BY ROSELL",
+        "location": "Taquilo",
+        "latitude": 13.498901022472749, 
+        "longitude": -89.48739597666764,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652996/SHALPA%20BY%20ROSELL.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652994/SHALPA%20BY%20ROSELL3.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730652995/SHALPA%20BY%20ROSELL2.png"
+        ],
+        "comments": [
+            "Una playa hermosa, muy privada, el rancho es muy acogedor",
+            "dentro no hace calor porque es bastante ventilado, y los cuartos tienen aire acondicionado",
+            "Los desayunos también son muy ricos."
+        ]
+    },
+    {
+        "id": 75,
+        "accommodation": "ALMA DE MAR, Luxury Villa El Salvador",
+        "location": "Taquilo",
+        "latitude": 13.497995039944763,  
+        "longitude": -89.48726040361501,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653242/ALMA%20DE%20MAR.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653242/ALMA%20DE%20MAR2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653241/ALMA%20DE%20MAR3.png"
+        ],
+        "comments": [
+            "Excelente!"
+        ]
+    },
+    {
+        "id": 76,
+        "accommodation": "Zonte Escondido",
+        "location": "El Zonte",
+        "latitude": 13.498408236677582,  
+        "longitude": -89.4493765830371,
+        "environment": "Playa",
+        "stars": 3.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653568/Zonte%20Escondido.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653567/Zonte%20Escondido2.png"
+        ],
+        "comments": [
+            "Tuve una gran estadía en el hostal de Walter, fue como estar en casa de un amigo",
+            "Fuimos a este albergue en sus inicios, pero es un lugar con buen potencial y el propietario, Walter, es una persona muy servicial"
+        ]
+    },
+    {
+        "id": 77,
+        "accommodation": "El Xalli",
+        "location": "El Zonte",
+        "latitude": 13.496881278658238,  
+        "longitude": -89.44876824635132,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653974/El%20Xalli.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653974/El%20Xalli2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730653973/El%20Xalli3.png"
+        ],
+        "comments": [
+            "El lugar es hermoso y tranquilo",
+            "La piscina con una vista increíble al mar, que da esa sensación de amplitud",
+            " Los tragos del bar estuvieron espectaculares."
+        ]
+    },
+    {
+        "id": 78,
+        "accommodation": "PICUS Zonte Beach House",
+        "location": "El Zonte", 
+        "latitude": 13.496483061772807,  
+        "longitude": -89.44684763121101,
+        "environment": "Playa",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654248/PICUS%20Zonte%20Beach%20House.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654248/PICUS%20Zonte%20Beach%20House2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654248/PICUS%20Zonte%20Beach%20House3.png"
+        ],
+        "comments": [
+            "Este lugar es espectacular para ir con familia y amigos",
+            "Me ha parecido muy bien aseo en las instalaciones muy buena",
+            "Cómodo e higiénico, vista al mar muy linda. Un poco deficiente el servicio de agua únicamente"
+        ]
+    },
+    {
+        "id": 79,
+        "accommodation": "Garten Hotel",
+        "location": "El Zonte",
+        "latitude": 13.49585538296813,  
+        "longitude": -89.44317397790927,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654511/Garten%20Hotel.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654510/Garten%20Hotel2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654509/Garten%20Hotel3.png"
+        ],
+        "comments": [
+            "Me quedé sin palabras con este hotel. Cada detalle superó mis expectativas",
+            "El servicio impecable hasta la comodidad de las habitaciones.",
+            "La ubicación es perfecta, y el ambiente te hace sentir en un oasis de lujo."
+        ]
+    },
+    {
+        "id": 80,
+        "accommodation": "Looking 2 Good Surf & Beachfront Hotel",
+        "location": "El Zonte",
+        "latitude": 13.495704023493532,  
+        "longitude": -89.44195930384623,
+        "environment": "Playa",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654783/Looking.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654783/Looking2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730654782/Looking3.png"
+        ],
+        "comments": [
+            "l ambiente es muy lindo. La comida muy rica",
+            "Nos atendieron súper bien y resolvieron los inconvenientes que tuvimos de manera ágil",
+            "Sin duda alguna el mejor sitio en el que me he hospedado!!"
+        ]
+    },
+    {
+        "id": 81,
+        "accommodation": "Olas Permanentes El Zonte",
+        "location": "El Zonte",
+        "latitude": 13.495254238185607,  
+        "longitude": -89.44113459795588,
+        "environment": "Playa",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730656985/Olas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730656985/Olas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730656985/olas3.png"
+        ],
+        "comments": [
+            "Excelente lugar para compartir en familia, pareja, precios competitivos y comida de muy buen gusto",
+            "Excelente ubicación, es bonito lugar el Restaurante",
+            "La comida muy rica, hay una excelente vista al mar y los atardeceres hermosos la playa justo enfrente perfecto para una cita o visita en familia"
+        ]
+    },
+    {
+        "id": 82,
+        "accommodation": "Almare Zonte",
+        "location": "El Zonte",
+        "latitude": 13.494652054737344, 
+        "longitude": -89.4401591235678,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657280/Almare%20Zonte.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657279/Almare%20Zonte2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657279/Almare%20Zonte3.png"
+        ],
+        "comments": [
+            "Me encanto",
+            "El domo, la cama super comodo con aire aconditionado, la piscina hacia el mar",
+            "Todo muy relajante. El staff amable y servicial. "
+        ]
+    },
+    {
+        "id": 83,
+        "accommodation": "Palo Verde Sustainable Hotel",
+        "location": "El Zonte",
+        "latitude": 13.495780878315498, 
+        "longitude": -89.43815480990658,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657591/Palo%20Verde.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657590/Palo%20Verde2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657590/Palo%20Verde3.png"
+        ],
+        "comments": [
+            "¡¡Palo Verde es un hotel excepcional!! ",
+            "Mi esposa y yo hemos tenido una estadía maravillosa",
+            "Ubicación perfecta para aquellos que buscan estar frente a la ola para surfear"
+        ]
+    },
+    {
+        "id": 84,
+        "accommodation": "Lost Paradise El salvador",
+        "location": "Atami",
+        "latitude": 13.497578144266171,  
+        "longitude": -89.41490596421961,
+        "environment": "Playa",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657888/Lost%20Paradise%20El%20salvador.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657885/Lost%20Paradise%20El%20salvador2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730657884/Lost%20Paradise%20El%20salvador3.png"
+        ],
+        "comments": [
+            "Ufffff excelente fin de semana en la playa Atami",
+            "Muy bonito para disfrutar en familia",
+            "Me encanta para escaparse del ruido de la cuidad."
+        ]
+    },
+    {
+        "id": 85,
+        "accommodation": "Atami Escape Resort",
+        "location": "Atami",
+        "latitude": 13.49515962938436,  
+        "longitude": -89.41848979751005,
+        "environment": "Playa",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658136/Atami%20Escape%20Resort.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658136/Atami%20Escape%20Resort2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658135/Atami%20Escape%20Resort3.png"
+        ],
+        "comments": [
+            "Bonito lugar con muy buena atención y sabor en su comida con una vista espectacular",
+            "excelente servicio Samuel nos atendió en recepción y súper atento excelente servicio muy atentos y muy serviciales todos los empleados los desayunos",
+            "Nos encantó! El desayuno es delicioso y sirven bastante"
+        ]
+    },
+    {
+        "id": 86,
+        "accommodation": "Hammock Plantation (hostel)",
+        "location": "Atami",
+        "latitude": 13.495959629389967,  
+        "longitude": -89.42387858467893,
+        "environment": "Playa",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658410/Hammock.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658410/Hammock2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658410/Hammock3.png"
+        ],
+        "comments": [
+            "Precio super accesible. Buenos host",
+            "Puede preparar su propia comida sin costo adicional o pedir a los restaurantes locales."
+        ]
+    },
+    {
+        "id": 87,
+        "accommodation": "Casa Cuscatlan",
+        "location": "Atami",
+        "latitude": 13.498946492618511,  
+        "longitude": -89.41397429477003,
+        "environment": "Playa",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658657/Casa%20Cuscatlan.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658658/Casa%20Cuscatlan2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658657/Casa%20Cuscatlan3.png"
+        ],
+        "comments": [
+            "Un lugar extremadamente recomendable, habitaciones de primera",
+            "Instalaciones acogedoras, área de piscina fabulosa, totalmente seguro",
+            "Acceso a la playa cercana, definitivamente 10/10"
+        ]
+    },
+    {
+        "id": 88,
+        "accommodation": "Las Mañanitas",
+        "location": "Xanadu",
+        "latitude": 13.494882480273517,  
+        "longitude": -89.40901358969367,
+        "environment": "Playa",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658926/Las%20Ma%C3%B1anitas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658926/Las%20Ma%C3%B1anitas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730658925/Las%20Ma%C3%B1anitas3.png"
+        ],
+        "comments": [
+            "Gran experiencia, alejado de la ciudad y bonito lugar y vista",
+            "Un lugar paradisíaco, celico y muy fino playa extremadamente limpia acogedor para sus visitantes",
+            "Hermoso"
+        ]
+    },
+    {
+        "id": 89,
+        "accommodation": "Chez Mondrian",
+        "location": "Xanadu",
+        "latitude": 13.49570919897927,  
+        "longitude": -89.4091909012242,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659171/Chez%20Mondrian.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659170/Chez%20Mondrian2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659170/Chez%20Mondrian3.png"
+        ],
+        "comments": [
+            "Recomiendo este lugar... es como tu casa en la playa... hay algunos buenos restaurantes cerca de allí",
+            "Un lugar encantador para pasar un tiempo lejos del ajetreo y el bullicio y disfrutar de los relajantes sonidos del océano."
+        ]
+    },
+    {
+        "id": 90,
+        "accommodation": "Sueño del Pacifico",
+        "location": "Xanadu",
+        "latitude": 13.495704820470948,  
+        "longitude": -89.41105633580872,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659430/Sue%C3%B1o%20del%20Pacifico.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659430/Sue%C3%B1o%20del%20Pacifico2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659428/Sue%C3%B1o%20del%20Pacifico3.png"
+        ],
+        "comments": [
+            "El rancho es bastante cómodo y el propietario es super accesible",
+            "Bonito lugar, muy buena vista hacia océano Pacífico",
+            "Piscina con desborde de agua, lugar amplio y cómodo, cuenta con cocina, refrigerador, microondas, horno eléctrico, cuartos con TV con cable y señal WiFi"
+        ]
+    },
+    {
+        "id": 91,
+        "accommodation": "Villa del Sol - Bungalows",
+        "location": "Xanadu",
+        "latitude": 13.495088943937656,  
+        "longitude": -89.40719116023746,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659686/Villa.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659686/Villa2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659686/Villa3.png"
+        ],
+        "comments": [
+            "Muy bonito y con playa privada"
+        ]
+    },
+    {
+        "id": 92,
+        "accommodation": "La Curva de Don Gere",
+        "location": "Sol y Mar",
+        "latitude": 13.493667552564466, 
+        "longitude": -89.40200983089238,
+        "environment": "Playa",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659991/La%20Curva%20de%20Don%20Gere.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659990/La%20Curva%20de%20Don%20Gere2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730659989/La%20Curva%20de%20Don%20Gere3.png"
+        ],
+        "comments": [
+            "Es un lugar bastante bonito con buenas vistas",
+            "La vistas son muy bonitas",
+            "Un lugar famoso por su comida, buen sabor en sus platos, excelente vista"
+        ]
+    },
+    {
+        "id": 93,
+        "accommodation": "The Bitcoin Mansion",
+        "location": "Sol y Mar",
+        "latitude": 13.49363588130002,
+        "longitude": -89.40019417080524,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730660286/The%20Bitcoin%20Mansion.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730660285/The%20Bitcoin%20Mansion2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730660284/The%20Bitcoin%20Mansion3.png"
+        ],
+        "comments": [
+            "Recientemente tuve la increíble oportunidad de hospedarme en este Airbnb frente al mar en El Salvador y realmente superó todas mis expectativas",
+            "Una propiedad que está perfectamente situada con vistas panorámicas y despejadas del océano",
+            "Estaba buscando el lugar perfecto para una escapada y lo que encontré fue lujo, sofisticación y una experiencia inolvidable."
+        ]
+    },
+    {
+        "id": 94,
+        "accommodation": "Villas del Mar, Sunzal",
+        "location": "Sol y Mar",
+        "latitude": 13.496147375517003,  
+        "longitude": -89.4003538988976,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730661901/Villas.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730661900/Villas2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730661900/Villas3.png"
+        ],
+        "comments": [
+            "Tiene una vista impresionante"
+        ]
+    },
+    {
+        "id": 95,
+        "accommodation": "Yali Sunzal Hotel & Resort",
+        "location": "El Aunzal",
+        "latitude": 13.49526235954633,  
+        "longitude": -89.39423482231412,
+        "environment": "Playa",
+        "stars": 3.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662185/Yali.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662184/Yali2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662184/Yali3.png"
+        ],
+        "comments": [
+            "Me encantó nuestra Estadía en Familia",
+            "El personal es bastante servicial y la comida esta 10 de 10",
+            "¡Muy bonito! Frente a la playa, la atención del personal de servicio fue muy buena"
+        ]
+    },
+    {
+        "id": 96,
+        "accommodation": "Sunzal Garden Surf Hub",
+        "location": "El Aunzal",
+        "latitude": 13.49407193539789,  
+        "longitude": -89.39222275691982,
+        "environment": "Playa",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662454/Garden.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662454/Garden2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662454/Garden3.png"
+        ],
+        "comments": [
+            "Privado, el mejor surf de la región, muchas actividades",
+            "Bonilla playa"
+        ]
+    },
+    {
+        "id": 97,
+        "accommodation": "Ola Verde",
+        "location": "El Aunzal",
+        "latitude": 13.49622188997582,  
+        "longitude": -89.39315260619935,
+        "environment": "Playa",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662723/Ola%20verde.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662723/Ola%20Verde2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730662722/Ola%20Verde3.png"
+        ],
+        "comments": [
+            "Muy bonito y super recomendado, habitación muy privada con todo lo necesario para sentirse cómodo, poder descansar y disfrutar mientras te desconectas de la vida cotidiana!!!"
+        ]
+    },
+    {
+        "id": 98,
+        "accommodation": "Olalai Beach Lounge",
+        "location": "El Aunzal",
+        "latitude": 13.493204475699429,
+        "longitude": -89.39192335626922,  
+        "environment": "Playa",
+        "stars": 4,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663005/Olalai.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663004/Olalai2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663004/Olalai3.png"
+        ],
+        "comments": [
+            "Desde el recibimiento mi experiencia fue estupenda, con una buena propuesta culinaria, el lugar es muy bonito y se nota el esfuerzo por mantenerlo asi",
+            "Todo el personal fue muy atento y amigable durante la estadia, tiene una bonita area de piscina con bonita vista al mar y un variado menu de cocteleria, el ambiente es muy agradable,",
+            "Tuve una super buena experiencia en este lugar. La comida del Rest Pescadito es excelente y el bar también"
+        ]
+    },
+    {
+        "id": 99,
+        "accommodation": "Balancé Yoga Retreat",
+        "location": "El Tunco",
+        "latitude": 13.493500448321392,  
+        "longitude": -89.38089903727288,
+        "environment": "Playa",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663340/Balance.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663340/Blance2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663340/Balance3.png"
+        ],
+        "comments": [
+            "Nos encantó nuestra estancia en equilibrio. El personal es muy acogedor y amable y nos hizo sentir como en casa",
+            "Estuvimos allí con nuestro niño pequeño y nos hicieron sentir como si nada fuera un inconveniente",
+            "¡Balance es ideal! Muy bien ubicado en el río que lleva a la playa y qué hermoso lugar"
+        ]
+    },
+    {
+        "id": 100,
+        "accommodation": "Boca Olas Resort & Villas",
+        "location": "El Tunco",
+        "latitude": 13.494199681267512,  
+        "longitude": -89.37951053636581,
+        "environment": "Playa",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663611/Boca.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663610/Boca2.png",
+            "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730663609/Boca3.png"
+        ],
+        "comments": [
+            "¡Tuvimos una estadía increíble! Las habitaciones y el ambiente en sí estaban muy limpios y cada miembro del personal fue increíblemente hospitalario.",
+            "Necesitábamos un lugar para nuestra última noche en El Tunco y queríamos un lugar cerca de la ciudad, pero no demasiado cerca de Night Live. Boca Olas era exactamente eso",
+            "Esta es la segunda vez que me hospedo con el atento personal de Boca Olas. La casa principal es un lugar increíble para hospedarse con toda la familia, incluidos los niños."
+        ]
+    },
+    {
+        
+        "id": 101,
+        "accommodation": "Tiki Island Hostal y Restaurante",
+        "location": "Lago Coatepeque",
+        "latitude": 13.878620331178015, 
+        "longitude": -89.5662270987273,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1729998926/Coatepeque/wqebght391ov5ogzomy1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1729998926/Coatepeque/qjkavkh36n7jfwt2chh9.webp",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1729999022/Coatepeque/b3bquhidev4estsb2t1x.avif"
+        ],
+        "comments": [
+            "Excelente lugar la gente es muy amable y atenta",
+            "Todo muy delicioso, la atencion muy buena, los precios muy acertados",
+            "Excelente ambiente y la comida muy deliciosa y fresca! "
+        ]
+    },
+    {
+        "id": 102,
+        "accommodation": "Hostal & Bar Xtream",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.8800556097997, 
+        "longitude": -89.56314764634642,
+        "environment": "Lago",
+        "stars": 3.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730000145/Coatepeque/khl35hh21whf8be1lio5.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730000141/Coatepeque/x2xwmtojp7ndro99rney.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730000144/Coatepeque/vnpyv4uyrdop2pccq2ht.png"
+        ],
+        "comments": [
+            "Este lugar esta increible. Me la pase bien con mis amigos",
+            "Pues es un buen lugar muy acogedor y familiar, tiene una buena vista del lago",
+            "Buena ubicacion, buena comida. Buenos precios, buen servicio"
+        ]
+    },
+    {
+        "id": 103,
+        "accommodation": "Casa Vista Veneto apartments",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.878342433479258,
+        "longitude": -89.56575534604481,
+        "environment": "Lago",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005327/Coatepeque/bubx7xrltrso4mjvtj6w.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005327/Coatepeque/xzlutvd8r1fqozcbkgfe.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005327/Coatepeque/jviefqtbxbok2ggsl0gq.jpg"
+        ],
+        "comments": [
+            "Muy recomendable!",
+            "Una experiencia maravillosa unica recomiendo este lugar al 200% limpio un personal amable",
+            "Wow hermoso lugar.... Demasiadas gradas... Mas inclusion... La piscina es garrasposa... Y el muelle para bajar al lago"
+        ]
+    },
+    {
+        "id": 104,
+        "accommodation": "THE MAMBA HOUSE",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877932112897218, 
+        "longitude": -89.5660457460781,
+        "environment": "Lago",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005671/Coatepeque/y3an5zeuvt465cpgszv6.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005671/Coatepeque/lpnixrqgqd5j4iyexlcc.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730005671/Coatepeque/kmmujr5rtxc5xdguemmz.jpg"
+        ],
+        "comments": [
+            "Excelente lugar muy privado",
+            "Un lugar con un excelente ambiente, las instalaciones super comodas y una vista al lago increible",
+            "Un lugar muy hermoso con una excelente atencion ,full recomendado"
+        ]
+    },
+    {
+        "id": 105,
+        "accommodation": "Yakamoz Villa 21. Hotel & Resort",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877814919984907,
+        "longitude": -89.56609637032459,
+        "environment": "Lago",
+        "stars": 5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730006397/Coatepeque/urbatz1dzb6pxilqtvzx.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730006397/Coatepeque/ilgt3zx9va5rgaop8kxm.jpg",
+            ""
+        ],
+        "comments": [
+            "¡Excelente servicio",
+            "Todo muy delicioso, la atencion muy buena, los precios muy acertados",
+            "Buena ubicacion, buena comida. Buenos precios, buen servicio"
+        ]
+    },
+    {
+        "id": 106,
+        "accommodation": "Casa Prana",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877697179474891,
+        "longitude": -89.56634854374099,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730006763/Coatepeque/nzzan6drk2pue0pjuld8.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730006763/Coatepeque/ylcnsivp5mbvdoimpmsp.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730006763/Coatepeque/utjteyuzdm57ynzzhvll.jpg"
+        ],
+        "comments": [
+            "Excelente atencion del encargado de la casa, siempre disponible y amable",
+            "El lugar es pequeño pero esta bien aprovechado, tiene habitaciones muy bonitas y una vista super hermosa",
+            "Muy bonita experiencia, bonita ubicacion, habitaciones, los muchachos que atienden son muy amables, sin duda alguna lo recomiendo"
+        ]
+    },
+    {
+        "id": 107,
+        "accommodation": "Hotel El Faro Proyecto Turistico",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877778250593757,
+        "longitude": -89.56618671814516,
+        "environment": "Lago",
+        "stars": 3.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007194/Coatepeque/nhrfh3iud90rxeqwgnyp.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007194/Coatepeque/zzy2tuwfjuzzrqaw0o7j.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007194/Coatepeque/rsho2peb2tfxtb2ur66d.jpg"
+        ],
+        "comments": [
+            "El anfitrión hizo todo lo posible para que estuviéramos cómodos.",
+            "Comodidad al 100%",
+            ""
+        ]
+    },
+    {
+        "id": 108,
+        "accommodation": "Cabaña del Faro",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877717386176931,
+        "longitude": -89.5662893370848,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007700/Coatepeque/iid5kygzpfxfdmwcgfr5.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007701/Coatepeque/ljfh0v08ddby845t90id.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730007701/Coatepeque/ugdyugwgbjh7fyn2cmim.png"
+        ],
+        "comments": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 109,
+        "accommodation": "Casa Vista Veneto apartments",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.878139732436226,
+        "longitude": -89.56570348883216,
+        "environment": "Lago",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008460/Coatepeque/tnia8t0wazj7cj9dnqst.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008460/Coatepeque/e1yk3smitomwjsnk5jbe.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008460/Coatepeque/xrmlq4uhpi5zss4j6hgo.jpg"
+        ],
+        "comments": [
+            "Una experiencia maravillosa única recomiendo este lugar al 200% limpio un personal amable, educado y atento",
+            "Una de las mejores vacaciones que puedas pasar es en el lago de Coatepeque",
+            "El lugar perfecto para desestresarse con familia y amigos , y la atención de los encargados es excepcional"
+        ]
+    },
+    {
+        "id": 110,
+        "accommodation": "Quinta Sunrise",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.878663250608751,
+        "longitude": -89.56522828153238,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008875/Coatepeque/kz0cizjca6dihrlpc4so.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008875/Coatepeque/i7vlwtgmphcgl4vdqslq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730008875/Coatepeque/c8waum5ndwkqnuiyu45t.jpg"
+        ],
+        "comments": [
+            "Gran experiencia obtenida lo recomiendo ampliamente para disfrutar en familia o en pareja",
+            "Muy bonito lugar, cuenta con todo lo que se necesita para disfrutar al 100 un buen día con familia y amigos.",
+            "Excelente resivimiento y atención, muy buena privacidad, todo muy haciado y limpio, nos gusto mucho y esperamos volver"
+        ]
+    },
+    {
+        "id": 111,
+        "accommodation": "Rancho JSam",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.879153280346635,
+        "longitude": -89.56416956835434,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009257/Coatepeque/atye3makkurh4vfwbyu8.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009257/Coatepeque/muie5ckv44qqgaixi2lu.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009257/Coatepeque/nazmmzoqfv9zcotlvp9l.jpg"
+        ],
+        "comments": [
+            "Desde la atención del chico que te recibe hasta el mínimo detalle en la casa, 100% recomendado.",
+            "Casa fresca y asequible en alquiler en el lago. Cerca de algunos restaurantes y justo al borde del lago",
+            "Buenas vistas, Tranquilo, Adecuado para niños y Buen precio"
+        ]
+    },
+    {
+        "id": 112,
+        "accommodation": "Hotel y Restaurante Silver Lake",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.879290994704354,
+        "longitude": -89.56374705820645,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009670/Coatepeque/y6znlikvoxjo18tw6v73.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009670/Coatepeque/qo2zvf0lbhztf2gibima.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730009670/Coatepeque/a11bwiny0ee5rvf0yeyv.jpg"
+        ],
+        "comments": [
+            "La infraestructura del lugar muy buena, piscinas bonitas, la vista hermosa.",
+            "Un lugar muy tranquilo, aseado y buena atención , comida bastante accesible y buena vista al lago",
+            "Muy tranquilo personal muy amable y ambiente seguro"
+        ]
+    },
+    {
+        "id": 113,
+        "accommodation": "Captain Morgan Hostel",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.879486603183727,
+        "longitude": -89.56332519692315,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010229/Coatepeque/sqjnnwt0fmyrisborvmg.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010229/Coatepeque/qlvqkpu8fkrjlkwkhlla.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010229/Coatepeque/pcnl9h0ycstpiddllilq.jpg"
+        ],
+        "comments": [
+            "Fue una experiencia inolvidable, un lugar con una excelente vista y temática",
+            "Un excelente lugar! Muy recomendado! Mucha diversión, personal amable y buen ambiente",
+            "El lugar es muy bonito para pasar el día. Y nadar en el lago las habitaciones ,la comida  y el servicio fue increíble"
+        ]
+    },
+    {
+        "id": 114,
+        "accommodation": "Quinta Moica",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.879643137435185,
+        "longitude": -89.56337216800533,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010635/Coatepeque/rk9snjukmue8pc3utv1w.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010635/Coatepeque/ztedqhwn6zq1ddy5sull.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730010635/Coatepeque/hy0qgyd3wqngpcgs342e.jpg"
+        ],
+        "comments": [
+            "Una experiencia inolvidable, para disfrutar con familiares y amigos",
+            "El lugar impecable y el personal del servicio excelente",
+            ""
+        ]
+    },
+    {
+        "id": 115,
+        "accommodation": "Restaurante y Hostal Romayor",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.879908410667882,
+        "longitude": -89.56292743018092,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011007/Coatepeque/xpzb34szgcrqpv7n8dgs.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011007/Coatepeque/feb3wbamj81iltwa1hvz.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011007/Coatepeque/xpyas5bm5viwionpcevu.jpg"
+        ],
+        "comments": [
+            "Amabilidad del personal y el excelente sabor de la comida",
+            "Recomendado, un lugar bastante cómodo y buena atención!",
+            "Un lugar muy bonito para pasarla en familia"
+        ]
+    },
+    {
+        "id": 116,
+        "accommodation": "Rancho Channel",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.8810129293077,
+        "longitude": -89.56088124722528,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011311/Coatepeque/ph607evexmpdwatqyef7.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011311/Coatepeque/q76izxzj5p23imt417dy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011311/Coatepeque/rshyudoxclgpsxh4cep3.jpg"
+        ],
+        "comments": [
+            "Un lugar amplio y comodo  tiene diferentes areas para descansar y la vista al lago es muy hermosa",
+            "Muy buen servicio y hermosa vista",
+            ""
+        ]
+    },
+    {
+        "id": 117,
+        "accommodation": "Quinta Monarca",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.882165781325563,
+        "longitude": -89.5592716760292,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011672/Coatepeque/hchcwbibhsekcefrmf44.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011672/Coatepeque/mdisuploj51rq7644dnb.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730011672/Coatepeque/irzimayigbtuv1zla9mi.jpg"
+        ],
+        "comments": [
+            "fue una experiencia unica,mi familia lo disfruto mucho",
+            "La higiene, la amabilidad; solicite cocinera y fue excelente experiencia, lugar bellisimo.",
+            ""
+        ]
+    },
+    {
+        "id": 118,
+        "accommodation": "Rancho San Gabriel",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.88533584181898,
+        "longitude": -89.55797531531917,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012102/Coatepeque/cp9w89e59wuqdosjznte.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012102/Coatepeque/jpfdlug5gj6pqvlufrz5.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012102/Coatepeque/posk8oohhwh3quqo3vao.jpg"
+        ],
+        "comments": [
+            "Excelente lugar",
+            "Un lugar muy bonito amplio y con una vista al lago panoramica y el muelle es muy completo con parrilla para hacer un asado",
+            "Amplio y ambiente fresco, con abundante vegetacion"
+        ]
+    },
+    {
+        "id": 119,
+        "accommodation": "Quinta Los Patos",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.862153284712857,
+        "longitude": -89.57316748531264,
+        "environment": "Lago",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012787/Coatepeque/p4r64ogovuhoouz6t5vw.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012787/Coatepeque/lfuulxfq9vgcjdgoq88g.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730012787/Coatepeque/yme57uo9s8endhtd5tx5.jpg"
+        ],
+        "comments": [
+            "Es un lugar seguro, higiénico y muy bonito para toda ocasión",
+            "Bonito lugar, el personal muy amable",
+            "un excelente lugar amplio, limpio, accesible y con personal muy amable"
+        ]
+    },
+    {
+        "id": 120,
+        "accommodation": "Hotel Secreto de La Montaña",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.888076043065968,
+        "longitude": -89.55338515778065,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730046683/Coatepeque/jdxekvaglinxwexuydim.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730046683/Coatepeque/wz57skuqydxmh8hvmq4x.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730046683/Coatepeque/xmiumqaccphpmozbr6uh.jpg"
+        ],
+        "comments": [
+            "Muy de lujo",
+            "Esta lindo atienden mucho bien",
+            "Super cómodo y lujoso"
+        ]
+    },
+    {
+        "id": 121,
+        "accommodation": "Quinta de El Faro",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.893082607125335,
+        "longitude": -89.53914367950316,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048453/Coatepeque/y8bmtsswvifnudlbzqap.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048453/Coatepeque/mjndsqegvohxlsvhvmji.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048453/Coatepeque/sdcil1yv0cymwj3ed0km.jpg"
+        ],
+        "comments": [
+            "Excelente lugar, tiene unas vistas muy bonitas y el personal es amable. Recomiendo",
+            "Excelente lugar!! Muy bien ubicado.",
+            "Es un buen servicio lo recomiendo"
+        ]
+    }
+    ,
+    {
+        "id": 122,
+        "accommodation": "Quinta Acapulco",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.892077560157988,
+        "longitude": -89.53922652781824,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048889/Coatepeque/nqrrvytlqbplww6yyvzi.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048888/Coatepeque/u7hijiplpskqukcdttx8.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730048888/Coatepeque/zwj1xqpzlluxbclk1zuy.jpg"
+        ],
+        "comments": [
+            "La mejor Quinta ftente al Lago",
+            "Excelente ambiente y la comida muy deliciosa y fresca!",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 123,
+        "accommodation": "Cardedeu Hotel",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.890083458035836,
+        "longitude": -89.53499297601054,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730061388/Coatepeque/ipjj8uolpojoovkqzhvi.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730061388/Coatepeque/dhebx2rynfenwy8wjnox.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730061388/Coatepeque/p5njoo8jjvutkjatote4.jpg"
+        ],
+        "comments": [
+            "Lugar con una exelente atencion muy lindo en paisajes fresco y seguridad al 100% que puedes disfrutar con tu familia",
+            "Bonito lugar, excelente vistas y muy relajante",
+            "La atención es excelente también el lugar muy lindo  te sientes como en casa"
+        ]
+    }
+    ,
+    {
+        "id": 124,
+        "accommodation": "Villas Noelia",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.884601759887081,
+        "longitude": -89.52546323906947,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730063775/Coatepeque/wjevg3vpnkmvs4w7tdes.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730063775/Coatepeque/atqnlf4gnenpzothsznz.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730063775/Coatepeque/jmrui571pkkjtiyt8wvw.jpg"
+        ],
+        "comments": [
+            "El lugar ofrece day pass. Hay mucho espacio y tienen un muelle hermoso",
+            "Un lugar excepcional, Muy tranquilo y privado.",
+            "Siempre limpio y su personal siempre dispuesta a ayudar y apoyar en lo que se necesite."
+        ]
+    }
+    ,
+    {
+        "id": 125,
+        "accommodation": "Rancho Alegre Coatepeque",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.88351685307299,
+        "longitude": -89.52572536672638,
+        "environment": "Lago",
+        "stars": 3.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730064727/Coatepeque/t3lnn5biwpwxxwdomsjp.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730064727/Coatepeque/dxmaf2dc9vmerzhfjjty.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730064727/Coatepeque/nieal89bv54plvoxmrvs.jpg"
+        ],
+        "comments": [
+            "Great food, we had the Parilla familiar and the boquitas mix great portions for the price.",
+            "Un lugar tranquilo para pasarla bien, con una vista expectacular. La comida exquisita. Se puede rentar motos acuáticas y disfrutar de un paseo por el lago.",
+            "Un excelente lugar para disfrutar de la vista, de hermoso paisaje del lago de Coatepeque miemtras disfrutas de una buena comida y excelente compañía con amigos"
+        ]
+    }
+    ,
+    {
+        "id": 126,
+        "accommodation": "Quinta Kassandra (Casa Campestre)",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.883290840910133,
+        "longitude": -89.52503840163837,
+        "environment": "Lago",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065243/Coatepeque/gqstg0bap1sfyhwdbeb1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065243/Coatepeque/ksyzcbfjawqkdwrqykap.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065243/Coatepeque/ei4ri8etfmzyf2lxvila.jpg"
+        ],
+        "comments": [
+            "Un lugar hermoso para descansar",
+            "Muy bonito lugar y muy limpio. Excelente para disfrutar en familia",
+            "Buen servicio. Un lugar muy bonito para pasar el fin de semana."
+        ]
+    },
+    {
+        "id": 127,
+        "accommodation": "RESTAURANTE RANCHO ALEGRE 2",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.881485541102327,
+        "longitude": -89.52349657749606,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065866/Coatepeque/keui3q7hpi0lnbbsllmz.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065866/Coatepeque/bszokgtemlwyq9mwip3u.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730065866/Coatepeque/cbqdwdzanx4vggmijs1b.jpg"
+        ],
+        "comments": [
+            "Un buen lugar para ir a comer y pasar en familia, hay una gran variedad de comida en el almuerzo, además hay piscinas para los niños",
+            "Muy bonito lugar para poder pasar vacaciones se lo recomiendo",
+            "Un bello lugar a visitar en el lago de Coatepeque, una variedad en su menu  y bella vista hacia el lago, recomendable visitarlos"
+        ]
+    },
+    {
+        "id": 128,
+        "accommodation": "Quinta Cantarrana",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.877040529112652,
+        "longitude": -89.5218022530344,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730066647/Coatepeque/zbk7eqkdqte2gpqyx9ni.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730066647/Coatepeque/snnclr1mqrmtpdh0bfmo.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730066647/Coatepeque/dzxl4fglaldu2jdzl3fe.jpg"
+        ],
+        "comments": [
+            "Lindísima mi hija nos llevó aquí, a un lugar maravillosamente lindo.",
+            "Linda propiedad, excelente atención de los guardianes, precio levemente alto",
+            "Hermoso!!!"
+        ]
+    },
+    {
+        "id": 129,
+        "accommodation": "Quinta Sunset",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.873275948447278,
+        "longitude": -89.52234189236431,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067430/Coatepeque/dyhn8mg1ar0mhgvq1my3.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067429/Coatepeque/hnoanyc79ynl8fzumy0r.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067429/Coatepeque/okqcdwnqphbqcs3pgfz1.jpg"
+        ],
+        "comments": [
+            "Bello lugar para compartir momentos agradables, vista al lago preciosa, limpieza, seguridad, área muy acojedora. Fantástico lugar",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 130,
+        "accommodation": "Villa Los Pinos",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.872054199792512,
+        "longitude": -89.5203822562906,
+        "environment": "Lago",
+        "stars": 3.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067883/Coatepeque/egbszensk43mgotpkyj0.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067883/Coatepeque/japooph9i0zmjhakipco.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730067883/Coatepeque/exvsghl8rtlk5qcrws0r.jpg"
+        ],
+        "comments": [
+            "Pasamos año nuevo en este lugar , es precioso, vista al lago espectacular, la  casa amplia con varios ambientes",
+            "La ruta tiene buena vista panorámica sueper hermosa con aire muy rico..",
+            ""
+        ]
+    },
+     {
+        "id": 131,
+        "accommodation": "Casa de adobe",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.876701629413523,
+        "longitude": -89.51709257282316,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730068327/Coatepeque/htwujznefpx06pvxuwtf.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730068327/Coatepeque/l1kqjyvzqprp4vndzun5.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730068327/Coatepeque/yfz26pzjkvpqbvvk5wlj.jpg"
+        ],
+        "comments": [
+            "Hermosa vista, casa de ambiente colonial.",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 132,
+        "accommodation": "Cabaña Reflejo del Cielo",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.878836858512976,
+        "longitude": -89.5182292560257,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069190/Coatepeque/o3mvsonoadz1eppmtwxe.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069190/Coatepeque/ihzv8of1e9sojtlbtlql.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069190/Coatepeque/zeov6kqp8uwli6qr7sv1.jpg"
+        ],
+        "comments": [
+            "Bonito lugar con vista al lago.",
+            "Un lugar muy atractivo para pasarla en familia con piscina",
+            "Una de las cosas que me gustó es que se puede llevar la mascota un lugar muy seguro, para tomarse unas vacaciones"
+        ]
+    },
+    {
+        "id": 133,
+        "accommodation": "Amacuilco Hostal",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.893761671388093,
+        "longitude": -89.5243078942011,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069715/Coatepeque/o0bigib7wsltqrltoyym.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069716/Coatepeque/u5sqqei5wfsay78koqej.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730069715/Coatepeque/pw6otlnukw8lnkbxkgwj.jpg"
+        ],
+        "comments": [
+            "Cómodo por ser el único hostal en la zona. La cocina muy sucia. Las habitaciones cómodas",
+            "Bonita y agradable",
+            "Nunca e estado en ese lugar , solo lo e visto por fuera ya que no tiene un rotulo que llame la atención"
+        ]
+    }
+    ,
+    {
+        "id": 134,
+        "accommodation": "Monte Carlo",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.865888090840064,
+        "longitude": -89.52073054747656,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730070180/Coatepeque/qz1tyyotj2tgdgn5ctxg.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730070180/Coatepeque/xaulfxm2cqav1710zxfg.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730070180/Coatepeque/taikycu09nf7dxzgrpcq.jpg"
+        ],
+        "comments": [
+            "Lugar hermoso, apacible, La casa con todas las comodidades yo la califico con un 100",
+            "Excelente Lugar Excelente atención",
+            "Hermosa casa junto al lago con excelentes vistas. El servicio fue increíble y nos encantó quedarnos aquí"
+        ]
+    }
+    ,
+    {
+        "id": 135,
+        "accommodation": "LAS PIEDRAS",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.856216020286784,
+        "longitude": -89.5258800464064,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730071495/Coatepeque/cbcndln945rcn5fmbqsc.jpg",
+            "",
+            ""
+        ],
+        "comments": [
+            "lugar tan hermoso",
+            "",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 136,
+        "accommodation": "Mirador El Congo",
+        "location": "El Congo",
+        "latitude": 13.852646485085394,
+        "longitude": -89.52187978415621,
+        "environment": "Otros",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730072852/Coatepeque/upillrthtaaeplmxfj3s.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730072852/Coatepeque/uxyqa0dutkdszhfmgsmk.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730072852/Coatepeque/rk9i1hifrnixn0vxdsx5.jpg"
+        ],
+        "comments": [
+            "Tiene una vista espectacular hacia el lago Coatepeque",
+            "Excelente lugar con una espectacular vista al lago de coatepeque.",
+            "Un bello lugar que cuenta con un excelente vista del lago, un clima fresco y la calle está en buen estado"
+        ]
+    }
+    ,
+    {
+        "id": 137,
+        "accommodation": "Quinta Piedradura",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.834899677454063,
+        "longitude": -89.55343683774822,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079182/Coatepeque/ofo2nizqdtpyaw6knuly.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079183/Coatepeque/t2hd4jqcdl3scmtbpqj9.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079183/Coatepeque/b491c7kbpw7bbt8kusy4.jpg"
+        ],
+        "comments": [
+            "Es un lugar muy hermoso espectacular si me encanto estar 3 días en ese lugar",
+            "Precioso lugar el personal de mantenimiento excelente super atentos cuesta un poco llegar pero vale la pena",
+            "Excelente lugar. Todo muy impecable, buena atención. El acceso toma tiempo por la calle"
+        ]
+    }
+    ,
+    {
+        "id": 138,
+        "accommodation": "Coatepeque Lake Cabinets",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.834501147488513,
+        "longitude": -89.56076212662462,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079540/Coatepeque/b0b5tr5028yafsmwympy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079540/Coatepeque/rdhdce2xvcr6sdyohnos.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079541/Coatepeque/qceuquy9hggawier5aab.jpg"
+        ],
+        "comments": [
+            "Lo más bonito es el lago un lugar excelente  para ir a pasear bañar y disfrutar  en familia y amigos",
+            "Es uno de los lugares que me ha gustado mucho en el lago, buena atención, para ir con la familia o reunión de amigos",
+            "Una experencia inolvidable"
+        ]
+    }
+    ,
+    {
+        "id": 139,
+        "accommodation": "Montelago",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.835383948211676,
+        "longitude": -89.5669512841222,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079963/Coatepeque/abzbhd5uh7naj1dgdlc3.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079963/Coatepeque/kglenbngllvfhn0te6ht.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730079963/Coatepeque/lmjdvdimnlpjdg4tlliz.jpg"
+        ],
+        "comments": [
+            "Espectaculares vistas del lago de Coatepeque. Lugar muy bien acondicionado para las vacaciones con la familia ó amigos",
+            "Nos encantó todo, desde el lugar hasta la atención que nos dieron",
+            "Excelente la mejor vista frente al lago."
+        ]
+    },
+    {
+        "id": 140,
+        "accommodation": "Hotel Equinoccio",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.850165684878014,
+        "longitude": -89.5677710966918,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081199/Coatepeque/xpgqc704a1ewpb9xwyoq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081199/Coatepeque/k6v7aanvduucg2fqqvmr.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081199/Coatepeque/rlfhjtmrgdprgomxelsi.jpg"
+        ],
+        "comments": [
+            "Me fascina la tranquilidad del lugar, a pesar de tener muchas comodidades la naturaleza te rodea, amplio parqueo",
+            "Maravillosa ubicación, con un equipo súper agradable y muy buena comida",
+            "buena vista al lago, excelente servicio al cliente y excelente menú"
+        ]
+    }
+    ,
+    {
+        "id": 141,
+        "accommodation": "Quinta Sandoval",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.853598023147699,
+        "longitude": -89.56953864390141,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081982/Coatepeque/vjrriyk73up3gvtkawtt.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081982/Coatepeque/dtzlloyaap0oo4qjxnox.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730081982/Coatepeque/li9etfdxhkbijkxijija.jpg"
+        ],
+        "comments": [
+            "Lindo lugar, perfecto para eventos familiares al aire libre y con el lago enfrente para disfrutar",
+            "Un lugar muy amplio y bonito ideal para retirarse del bullicio",
+            "Es un gran residente, hermosa área de piscina, el anciano de la propiedad es muy servicial y servicial."
+        ]
+    }
+    ,
+    {
+        "id": 142,
+        "accommodation": "rancho el triunfo",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.862356425972461,
+        "longitude": -89.5731810360456,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082332/Coatepeque/ppauydi2onywhxhfq00g.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082332/Coatepeque/wofko6mizju9htwoxo1i.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082332/Coatepeque/ekeyx4k2lndxusfj0ljc.jpg"
+        ],
+        "comments": [
+            "Super bonito para disfrutar en familia",
+            "Buena ubicación con una piscina poco profunda ideal para niños.",
+            "Maravilloso"
+        ]
+    }
+    ,
+    {
+        "id": 143,
+        "accommodation": "Casa Conacaste",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.864426070153847,
+        "longitude": -89.57348718332769,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082733/Coatepeque/k4d9gpkvhhobe6o0org1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082733/Coatepeque/xddsuuty2ylok1vttagd.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730082733/Coatepeque/gcp0gzsmimiytwbh33wb.jpg"
+        ],
+        "comments": [
+            "Excelente muy agradable 10 de 10",
+            "Excelente y hermoso lugar.",
+            "Buen lugar para distraerse"
+        ]
+    }
+    ,
+    {
+        "id": 144,
+        "accommodation": "Quinta Avanti",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.868602860401392,
+        "longitude": -89.57270393075325,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730083575/Coatepeque/okza2f1eyi2akwqlxvuc.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730083575/Coatepeque/mjxatwwkajurj3nub6fy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730083575/Coatepeque/vyu9xlaftcbz3ckil8e5.jpg"
+        ],
+        "comments": [
+            "Wow muy bonito",
+            "fantastic",
+            "Que lugar más lindo!!!"
+        ]
+    },
+    {
+        "id": 145,
+        "accommodation": "Quinta Roca Linda",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.867151808357125,
+        "longitude": -89.57391553837195,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730133978/Coatepeque/jbya7ejwcv9qrggwns1d.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730133978/Coatepeque/qkygbeu6ex6ehecciaei.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730133978/Coatepeque/aqjhkl1qpjs0md9f25ro.png"
+        ],
+        "comments": [
+            "Es una de las casas mas bonitas en las que eh estado. La vista es increible, todo esta super limpio",
+            "Es un lugar tranquilo para descansar y hacer turismo interno",
+            "Lindo bonito y limpio. Le s recomiendo"
+        ]
+    },
+    {
+        "id": 146,
+        "accommodation": "Quinta Macallan",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.872300919500384,
+        "longitude": -89.56915809778752,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730134999/Coatepeque/kahmkt0vokjzpuorm0c4.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135000/Coatepeque/vnh548tghakqd5e6onac.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135000/Coatepeque/b9xdeawae9m9oflbsjsl.png"
+        ],
+        "comments": [
+            "Muy bonito , lugar, lindas cabañas, super relajante,  una vista espectacular y el personal muy amable.",
+            "Es un lugar muy accesible y con bonitas cabañas familiares las instalaciones están bien cuidadas y limpias!",
+            "Un exelente  lugar  para disfrutar servicio exelente"
+        ]
+    },
+    {
+        "id": 147,
+        "accommodation": "Vista Turquesa El Salvador",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.873940835354277,
+        "longitude": -89.56876562103062,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135345/Coatepeque/njhhdzxowldwzxzrusw9.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135345/Coatepeque/cwkt9wsx3xayrajujiga.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135346/Coatepeque/ol8b9sw4f5utsj7mkkhy.png"
+
+        ],
+        "comments": [
+            "Me encantó, la casa frente al lago, la piscina infinit y cada espacio de la casa",
+            "Hermoso lugar para pasarla bien  y relajarse en familia.",
+            "Precioso lugar, la casa muy hermosa"
+
+        ]
+    },
+    {
+        "id": 148,
+        "accommodation": "Quinta Emperador",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.875314158486292,
+        "longitude": -89.56825442094427,
+        "environment": "Lago",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135844/Coatepeque/uwxxu3knewfjo8jxx50f.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135844/Coatepeque/frcsfk3nhyiziqz5zjmy.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730135844/Coatepeque/ppvzenrmc80ac4xxr0ns.png"
+
+        ],
+        "comments": [
+            "La ubicación del lugar es bien especifica, la zona es muy tranquila",
+            " tiene un ambiente cómodo y agradable, cuenta con una bonita vista al lago de coatepeque",
+            "Muy bonito lugar, lo único que le recomendaría al dueño es limpiar un poco el área para poder bañar tranquilamente"
+        ]
+    },
+    {
+        "id": 149,
+        "accommodation": "Antiguo Casco, Hacienda San Agustin",
+        "location": "San Pedro Perulapan",
+        "latitude": 13.707430511822356,
+        "longitude": -89.01332646631822,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730136722/Coatepeque/rchjzjttvtgfegkvydyy.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730136722/Coatepeque/wthj2ejxqyd3ol66kzay.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730136722/Coatepeque/xzxsskakzgq6xmmobcci.png"
+        ],
+        "comments": [
+            "fue una experiencia inolvidable",
+            "El Antiguo Casco es un lugar maravilloso y único!",
+            "Demasiado bello! Tal como lo muestra en las fotos es lo que es, es una hacienda con una historia interesante."
+        ]
+    },
+    {
+        "id": 150,
+        "accommodation": "Casa Montenegro",
+        "location": "San Pedro Perulapan",
+        "latitude": 13.700986961138344,
+        "longitude": -89.01210132155222,
+        "environment": "Lago",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137217/Coatepeque/skqh2mxmqztmlimpfhrt.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137217/Coatepeque/dwvjeqfnmv1y39txchrk.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137217/Coatepeque/rf0q5slvbogl1kjtmdoa.png"
+        ],
+        "comments": [
+            "Un paraíso escondido.",
+            "Es una casa grande con una vista al lago que te deja sin palabras",
+            "La atención de los anfitriones fue de lo mejor, muy atentos, muy serviciales."
+        ]
+    },
+    {
+        "id": 151,
+        "accommodation": "Casa de oración Santísima Trinidad",
+        "location": "Candelaria",
+        "latitude": 13.681145109809417,
+        "longitude": -88.98289163998352,
+        "environment": "Otros",
+        "stars": 4.7,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137825/Coatepeque/zn6q9edn2x3dbjycnloo.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137825/Coatepeque/s8eyt2n9kna5xmsnwjk9.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730137825/Coatepeque/qy2dcafhu4umm1urdqbz.png"
+        ],
+        "comments": [
+            "Excelente lugar para venir y tomarse un tiempo de retiro o reflexión y encuentro con Dios o solamente para descansar y salir de la rutina cotidiana",
+            "Excelente para retiros religiosos, atención muy atenta por las religiosas, comida casera muy rica.",
+            "Un muy buen lugar para un retiro espiritual"
+        ]
+    },
+    {
+        "id": 152,
+        "accommodation": "Camping La joya de Apancino ",
+        "location": "Candelaria",
+        "latitude": 13.680512649330106,
+        "longitude": -88.99098210906324,
+        "environment": "Otro",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145353/Coatepeque/ur5zvk4mdfgwhrxotqvu.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145353/Coatepeque/xrmi9w8su4scddnjk94l.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145353/Coatepeque/dygwdqdpjhyytgswp0dw.png"
+        ],
+        "comments": [
+            "Es realmente una joya. Un oasis de paz encerrado entre dos laderas.",
+            "Precioso lugar, donde realmente encuentras paz y tranquilidad, disfrute esa belleza natural",
+            "excelente atención, con muchísima amabilidad"
+        ]
+    },
+    {
+        "id": 153,
+        "accommodation": "Hostal y restaurante San Carlos",
+        "location": "San juan Tepezontes",
+        "latitude": 13.623803204286228, 
+        "longitude": -89.0083766576902,
+        "environment": "Lago",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145959/Ilopango/iawzyo5x8dlcrejeicul.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145959/Ilopango/g9n2vvqisalxltwf18ro.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730145959/Ilopango/q7qdoddra7hlg99hshof.png"
+        ],
+        "comments": [
+            "Es un lugar pequeño pero muy bien diseñado con habitaciones acogedoras",
+            "Lindo lugar, agradable experiencia para relajarse fuera de la ciudad",
+            "Comida al estilo autóctono mezclado con sabores actuales. "
+        ]
+    },
+    {
+        "id": 154,
+        "accommodation": "Las Tres Piedras",
+        "location": "Chinameca",
+        "latitude": 13.625276262939936,
+        "longitude": -89.07183513930829,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146284/Ilopango/frdj2qoazed86dszr0xs.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146284/Ilopango/wousvuhkogzeheqs7i0q.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146284/Ilopango/oplggwkotvm7ut4fhvqf.png"
+        ],
+        "comments": [
+            " las instalaciones son hermosas, la comida deliciosa y las vistas son espectaculares",
+            "Excelente lugar, atención al cliente excelente",
+            "Increíble lugar, una muestra de lo hermoso que es El Salvador y de todo lo que tiene para ofrecer"
+        ]
+    },
+    {
+        "id": 155,
+        "accommodation": "Victory Paradise Camping & Hiking",
+        "location": "Chinameca",
+        "latitude": 13.634806934612364,
+        "longitude": -89.06471249355037,
+        "environment": "Otros",
+        "stars": 0.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146787/Ilopango/c6vhjkj5hhp2gqvapglq.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146787/Ilopango/dfux7a3hd0o6bslu2frp.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730146787/Ilopango/gqtq4vw4zy6tf0a8ukbw.png"
+        ],
+        "comments": [
+            "Uno lugar espectacular!!",
+            "Excelente lugar en el Lago de Ilopango para hacer senderismo y camping",
+            "Una aventura al aire libre"
+        ]
+    },
+    {
+        "id": 156,
+        "accommodation": "Ranch MTorres",
+        "location": "Chinameca",
+        "latitude": 13.637349974529906,
+        "longitude": -89.08018598623333,
+        "environment": "Lago",
+        "stars": 3.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730147158/Ilopango/dsv3vhmys4wsqm0qhddq.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730147158/Ilopango/pqzujamewqdxw0pdrdzb.png",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730147159/Ilopango/mc3dtsdevomfgz51xtx0.png"
+        ],
+        "comments": [
+            "Excelente",
+            "Uno lugar espectacular!!",
+            "Excelente lugar"
+        ]
+    },
+    {
+        "id": 157,
+        "accommodation": "Hotel y Restaurante El Faro",
+        "location": "Lago de Ilopango",
+        "latitude": 13.69103606396589,
+        "longitude": -89.09092003502921,
+        "environment": "Lago",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730170499/Ilopango/og1bz6u59isdepvclrwq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730170498/Ilopango/fldoyrlinwv4iblylmdg.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730170498/Ilopango/msgb04ia2fbn4d3sbjbh.jpg"
+        ],
+        "comments": [
+            "El lugar es agradable",
+            "El lugar perfecto para descansar quitarse el stress un Hotel de lujo con un precio muy comodo excellente ",
+            "Bonito lugar. Con un gran potencial. Cuenta con acceso al lago de Ilopango"
+        ]
+    },
+    {
+        "id": 158,
+        "accommodation": "Vía Vela Ilopango",
+        "location": "Lago de Ilopango",
+        "latitude": 13.698989955434552,
+        "longitude": -89.08051655788108,
+        "environment": "Otro",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173114/Ilopango/tjwdggfxesdylfs6oaqv.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173114/Ilopango/kxczjy33z1hem9tzc5pk.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173114/Ilopango/bkzzvzwqbrpjyd9hanxq.jpg"
+        ],
+        "comments": [
+            "lugar muy acogedor para la familia",
+            "Lugar hermoso para pasar en familia.",
+            "Exelente lugar para disfrutar con la familia, ambiente muy agradable, muy accesible y seguro."
+        ]
+    },
+    {
+        "id": 159,
+        "accommodation": "Hotel Familiar Apulo Ilopango",
+        "location": "Lago de Ilopango",
+        "latitude": 13.700847244230026,
+        "longitude": -89.07838464714746,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173915/Ilopango/geadefbbeidwbksdpgub.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173915/Ilopango/lk2lsqrwwo1oti5iaere.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730173915/Ilopango/hcvldbpnlxoyl6oujyip.jpg"
+        ],
+        "comments": [
+            "Muy bonito lugar agradable . Muy buena atencion Y sobre todo serca de la capital",
+            "Un lugar muy acogedor, bonita atención, las habitaciones muy limpias y ordenadas",
+            "Un lugar muy discreto y familiar exelente para eventos y se puede tambien hospedar por dias"
+        ]
+    },
+    {
+        "id": 160,
+        "accommodation": "La casa del Lago Las Veraneras",
+        "location": "Lago de Ilopango",
+        "latitude": 13.705964667664015,
+        "longitude": -89.070089129204,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730174346/Ilopango/qqi51mz8fanyanmrlnwh.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730174346/Ilopango/pglutguwtzomql101sbh.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730174346/Ilopango/wxsubxn3g4s3xhoruzey.jpg"
+        ],
+        "comments": [
+            "Un lugar magico, comodo, limpio y fuera de serie para disfrutar en pareja o en familia.",
+            "Un lugar paradisiaco donde el tiempo se detiene y solo puedes disfrutar!!!",
+            "Excelente lugar para disfrutar en familia bien acogedor"
+        ]
+    },
+    {
+        "id": 161,
+        "accommodation": "La casa del lago Ilopango apancino",
+        "location": "Lago de Ilopango",
+        "latitude": 13.708757576100115,
+        "longitude": -89.06767131675863,
+        "environment": "Lago",
+        "stars": 3.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730207593/Ilopango/q1nvhqm4k64o3tkr6lfd.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730207593/Ilopango/gktfjsccdatjydqwrqvo.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730207593/Ilopango/ylknet3rly9m0538znfz.jpg"
+        ],
+        "comments": [
+            "excelente atención, con muchísima amabilidad",
+            "Siempre limpio y su personal siempre dispuesta a ayudar y apoyar en lo que se necesite.",
+            "El lugar es agradable"
+        ]
+    }
+    ,
+    {
+        "id": 162,
+        "accommodation": "Campamento Genezareth MCA",
+        "location": "Lago de Ilopango",
+        "latitude": 13.708057213472154,
+        "longitude": -89.04197298335748,
+        "environment": "Otro",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730208467/Ilopango/tf0bvqxefnrchxzvsx54.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730208467/Ilopango/ptyvnrspszcdzflsropf.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730208467/Ilopango/tnkdrnouxcenzipypg4g.jpg"
+        ],
+        "comments": [
+            "Tremendas experiencias que se viven",
+            "Muy bonito lugar para compartir y disfrutar en familia",
+            "excelente atención, con muchísima amabilidad"
+        ]
+    }
+    ,
+    {
+        "id": 163,
+        "accommodation": "Camping & Hiking Corinto",
+        "location": "Lago de Ilopango",
+        "latitude": 13.711112685591543,
+        "longitude": -89.0447404182888,
+        "environment": "Otro",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730209202/Ilopango/rw9i0nwgcknd79ci1zuv.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730209202/Ilopango/wz0a2cf7iqkdm474w1k5.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730209202/Ilopango/txcpx7hlrxerjcyyztkr.jpg"
+        ],
+        "comments": [
+            "",
+            "",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 164,
+        "accommodation": "Hotel Vista Lago",
+        "location": "Lago de Ilopango",
+        "latitude": 13.702572591448904,
+        "longitude": -89.092232562756,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730210301/Ilopango/hiczb5ujljygwa4bljxr.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730210301/Ilopango/nyl5sy9jggvb7jx9b1qx.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730210301/Ilopango/el7x1wq77vxypk1jdysd.jpg"
+        ],
+        "comments": [
+            "Es un lugar bien bonito",
+            "Bonita vista",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 165,
+        "accommodation": "Finca y Hostal Santa Eduviges",
+        "location": "Lago de Ilopango",
+        "latitude": 13.586942803717438,
+        "longitude": -88.94351915952592,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730347692/Ilopango/jzcozesmopobbzdqh0w1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730347692/Ilopango/t2nbmani4ypruvbrktlf.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730347692/Ilopango/wkcn8joc6cron7svpgqd.jpg"
+        ],
+        "comments": [
+            "Me encantó este lugar, excelente lugar para disfrutar de la naturaleza, comida riquisima!!",
+            "Muy buen lugar para disfrutar de la naturaleza y de poder descansar con tu familia y amigos",
+            "Es un lugar  fresco  es  muy  amplio el lugar tiene  senderos para aser  caminatas"
+        ]
+    }
+    ,
+    {
+        "id": 166,
+        "accommodation": "Quinta America",
+        "location": "Lago de Ilopango",
+        "latitude": 13.597772655908598,
+        "longitude": -88.93191564998911,
+        "environment": "Lago",
+        "stars": 3.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348536/Ilopango/wughtkia8g8m0lix12yc.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348536/Ilopango/krp5tfl8fozoyroa0x70.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348536/Ilopango/ozygq7vvvrdcxtudgfli.jpg"
+        ],
+        "comments": [
+            "Lugar tranquilo para pasarla bien en contacto con la naturaleza, habitaciones comodas, seguras, etc",
+            "Vista espectacular, ofrecen servicio de desayuno, almuerzo y cena; clima muy fresco, lejos del mundanal ruido",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 167,
+        "accommodation": "FINCA EL DORADO",
+        "location": "Lago de Ilopango",
+        "latitude": 13.58921518073185,
+        "longitude": -88.94351552256991,
+        "environment": "Lago",
+        "stars": 2.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348941/Ilopango/ivnznfuk8bqrpvt7o2jy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348941/Ilopango/g4cygqojpqzdfkmiimik.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730348941/Ilopango/qgnf59qugrimiirehrox.jpg"
+        ],
+        "comments": [
+            "Bonito lugar",
+            "excelente atención, con muchísima amabilidad",
+            "Bonita vista"
+        ]
+    }
+    ,
+    {
+        "id": 168,
+        "accommodation": "Auto Hotel La Garita",
+        "location": "Lago de Ilopango",
+        "latitude": 13.710357281579308,
+        "longitude": -89.17122863809767,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730429460/Ilopango/isttd4c411wwnab7sfa3.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730429460/Ilopango/dybclvcm2jkgoqrfo6tl.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730429460/Ilopango/zpjpdstah4kajuqacn7p.jpg"
+        ],
+        "comments": [
+            "Muy higienico y todo menos los aires acondicionados que estan super lejos de la cama y ya no llega ni tan siquira fresco",
+            "Lugar super discreto, buen precio",
+            "Las habitaciones son muy pequeñas y les hace falta mantenimiento"
+        ]
+    }
+    ,
+    {
+        "id": 169,
+        "accommodation": "Hotel San Antonio",
+        "location": "Lago de Ilopango",
+        "latitude": 13.703728126958088,
+        "longitude": -89.18097073122689,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430289/Ilopango/dbahsjqc66e7tjvpsla1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430289/Ilopango/jxpkffoy7vibu04mgpmf.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430289/Ilopango/r13s5cm0jfupdztuzn2z.jpg"
+        ],
+        "comments": [
+            "las habitaciones son sencillas, pero la atencion, la seguridad y el costo. Me parecio excelente",
+            "Muy bonito lugar.. Y comida rica",
+            "Bonitas y comodas habitaciones y precios bajos"
+        ]
+    }
+    ,
+    {
+        "id": 170,
+        "accommodation": "Residencial Portico San Jacinto",
+        "location": "Lago de Ilopango",
+        "latitude": 13.687519190134244,
+        "longitude": -89.18252565321757,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430898/Ilopango/fiubzjabju1lhhntedd1.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430898/Ilopango/mmeudmmzlx1xv02hmzxy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730430898/Ilopango/yd6rs0mnjhvr68qgot7r.jpg"
+        ],
+        "comments": [
+            "Muy bonito acogedora las casas",
+            "Es un lugar fabulos",
+            "Buen diseño de casas"
+        ]
+    },
+    {
+        "id": 171,
+        "accommodation": "Hotel Abrego",
+        "location": "Lago de Ilopango",
+        "latitude": 13.700101086509363,
+        "longitude": -89.193559375447,
+        "environment": "Lago",
+        "stars": 4.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730431616/Ilopango/f0q3v2uati5vybsrspiw.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730431616/Ilopango/qvjiglvyzodxausnrkum.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730431616/Ilopango/uuuigyc4zbpx2fquzskz.jpg"
+        ],
+        "comments": [
+            "Muy bonito esta en el centro. Barato y de muy buena calidad. todo está cerca",
+            "Buenas vistas",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 172,
+        "accommodation": "Hotel San Juan De La Isla",
+        "location": "Lago de Ilopango",
+        "latitude": 14.249194428097338,
+        "longitude": -89.54866087149735,
+        "environment": "Lago",
+        "stars": 4.3,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432563/Ilopango/uh8kuotjdcyhurdwnlqg.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432563/Ilopango/arrxf7jqtmzv2fwjxcrw.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432563/Ilopango/ys7osc5cfhqo6hw6tbja.jpg"
+        ],
+        "comments": [
+            "Buena vista del lago ,piscinas suficientes para grandes y chiquitines! Ambiente trankilo  ,tienen variedad de comida!",
+            "Hermoso lugar para pesca 6 convivencia en familia la mejor experiencia ",
+            "Muy bonito lugar hay piscinas para niños y adultos"
+        ]
+    }
+    ,
+    {
+        "id": 173,
+        "accommodation": "Hacienda del Lago",
+        "location": "Lago de Ilopango",
+        "latitude": 14.23788762609664,
+        "longitude": -89.52315911014381,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432991/Ilopango/dwclnz66q304yvu6hbdb.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432991/Ilopango/pldtfu8jaewwilnz8lqk.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730432991/Ilopango/mrnnyp57rwd2fthgtok2.jpg"
+        ],
+        "comments": [
+            "Un lugar bonito para pernoctar frente al Lago de Guija",
+            "Excelente y Bello Lugar, me agrada poder pasar con la Familia y tener las mejores vistas con un excelente clima.",
+            "Un lugar agradable para disfrutar en familia"
+        ]
+    }
+    ,
+    {
+        "id": 174,
+        "accommodation": "Rancho Morataya",
+        "location": "Lago de Ilopango",
+        "latitude": 14.266947488151178,
+        "longitude": -89.49735337414342,
+        "environment": "Lago",
+        "stars": 0.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730433653/Ilopango/bs4n7sckahzmcbbgvcge.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730433653/Ilopango/rul6vlmush9cpsk0rbun.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730433653/Ilopango/fpc7wzreaagvyckhuaxj.jpg"
+        ],
+        "comments": [
+            "",
+            "",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 175,
+        "accommodation": "Perla De Azacualpa Hotel",
+        "location": "Lago de Ilopango",
+        "latitude": 14.266424824754031,
+        "longitude": -89.49448846945731,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730434203/Ilopango/nos44qj0xboxjc0xrj4y.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730434203/Ilopango/m0hyt7qbw73yzs6urwz7.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730434398/Ilopango/kgmbwbsthe9xrmwecasj.jpg"
+        ],
+        "comments": [
+            "Un excelente lugar en la orilla del Lago de Guija",
+            "Lugar con ambiente familiar muy recomendable",
+            "Bonito para ir entre semana en familia y amigos"
+        ]
+    }
+    ,
+    {
+        "id": 176,
+        "accommodation": "Rancho de Los Abuelos",
+        "location": "Lago de Ilopango",
+        "latitude": 14.286971166050009,
+        "longitude": -89.46279243588316,
+        "environment": "Lago",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730435027/Ilopango/a2ymncjabdlj5s0adnji.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730435028/Ilopango/igexpyc7s2thal4j5u0t.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730435027/Ilopango/jyses2or1ltnpc6rthu5.jpg"
+        ],
+        "comments": [
+            "Lindo lugar, tiene todo lo que necesitas para alojarte y pasar un tiempo en familia. Recomendadisimo",
+            "Bonito lugar",
+            ""
+        ]
+    },
+    {
+        "id": 177,
+        "accommodation": "Rancho los laureles",
+        "location": "Lago de Ilopango",
+        "latitude": 14.233334615561633,
+        "longitude": -89.62853555315657,
+        "environment": "Otros",
+        "stars": 0.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730516361/Ilopango/ob0sst55cv5ocmrvve52.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730516361/Ilopango/kfcydgnsgo9zorcqyyvd.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730516362/Ilopango/tu9wvtzrnafqt9navxoj.jpg"
+        ],
+        "comments": [
+            "",
+            "",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 178,
+        "accommodation": "Hotel Payaya Candelaria de la Frontera",
+        "location": "Lago de Ilopango",
+        "latitude": 14.113895066633285,
+        "longitude": -89.64767659442178,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517103/Ilopango/akznnhzwbvxbmeslcypf.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517103/Ilopango/d3dv3ekzvtfexorcup48.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517103/Ilopango/kzmcxn2yqzu3j7o7ro31.jpg"
+        ],
+        "comments": [
+            "nos encantó la atención",
+            "Muy bonitas las habitaciones. La terraza esta expectacular",
+            "Un lugar unico Para disfrutar al maximo"
+        ]
+    }
+    ,
+    {
+        "id": 179,
+        "accommodation": "Hotel Brunette",
+        "location": "Lago de Coatepeque",
+        "latitude": 13.997996426856798,
+        "longitude": -89.55663066912366,
+        "environment": "Lago",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517905/Ilopango/bvhwp06tsmkzrzfznlwc.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517905/Ilopango/wpsycqoxavnevebhrere.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730517905/Ilopango/efzogzq6plrabo1aa2we.jpg"
+        ],
+        "comments": [
+            "Me sentí a gusto durante mi estancia.",
+            "El hotel ofrece lo necesario para descansar cómodamente, y el trato fue amable.",
+            "Buena ubicación, buen precio y par de detalles por mejorar pero en general recomendable para estadías cortas"
+        ]
+    }
+    ,
+    {
+        "id": 180,
+        "accommodation": "Altea Hostal",
+        "location": "Lago de Ilopango",
+        "latitude": 14.000769661038367,
+        "longitude": -89.55642337722848,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730563647/Ilopango/uvogugoijpejq0ydzmsr.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730563647/Ilopango/rlje4ghucsipxxzwixfu.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730563647/Ilopango/mofu0anz71al9lmefene.jpg"
+        ],
+        "comments": [
+            "El hostal es muy acogedor, las zonas comunes estan muy limpias y arregladas siempre.",
+            "Pasamos 4 noches en Altea hostel y fue increible",
+            "Sencillamente ESPECTACULAR!!!!"
+        ]
+    }
+    ,
+    {
+        "id": 181,
+        "accommodation": "Velvet Hotel",
+        "location": "Lago de Ilopango",
+        "latitude": 13.99199644797559,
+        "longitude": -89.55624726868228,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730565044/Ilopango/qjmtpdktk8ky8ycpv7zq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730565045/Ilopango/m8dhbbtzojyjv5ft8iaz.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730565044/Ilopango/atmsacaojyc1yvqa10dd.jpg"
+        ],
+        "comments": [
+            "Un hospedaje muy recomendable, bien situado y con una decoración 10 sobre 10",
+            "Muy bonito el hotel, céntrico y con parqueo propio.",
+            "Un pequeño hostal donde se siente el calor del hogar."
+        ]
+    },
+    {
+        "id": 182,
+        "accommodation": "Hotel Tolteka Plaza",
+        "location": "Lago de Ilopango",
+        "latitude": 13.970195211612209,
+        "longitude": -89.56431448903955,
+        "environment": "Lago",
+        "stars": 4.1,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730585032/Ilopango/q6l9rqp8wa4ddkbhii4s.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730585032/Ilopango/y3cok1tn7agsqusfrmem.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730585032/Ilopango/hndk7vekltglkurr3gjn.jpg"
+        ],
+        "comments": [
+            "El hotel esta muy bonito y tiene una excelente ubicacion",
+            "Personalmente habia escuchado hablar de este hotel y me imagine que iba a ser un lugar que estaba mas a la altura para el precio que te cobran por estar ahi.",
+            "Exelente. Atencion y servicio mucha amabilidad.  Por el personal de servicio lo recomiendo."
+        ]
+    }
+    ,
+    {
+        "id": 183,
+        "accommodation": "Villa Napoli Bed & Breakfast",
+        "location": "Lago de Ilopango",
+        "latitude": 13.972077263368796,
+        "longitude": -89.54437439663398,
+        "environment": "Lago",
+        "stars": 4.2,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730586059/Ilopango/aarx6wlwki6xnut74bc7.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730586059/Ilopango/gwcbzfmogongl3z1atpx.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730586059/Ilopango/b79a1jg5h2lxs9mczmqj.jpg"
+        ],
+        "comments": [
+            "Pequeño pero Agradable lugar",
+            "Buen lugar para pasar con amigos y familia, la comida muy rica y precios asequible.",
+            "Muy buen lugar me parece la atencion y servicio la ubicacion esta bien"
+        ]
+    }
+    ,
+    {
+        "id": 184,
+        "accommodation": "Hostal Casa Verde Santa Ana",
+        "location": "Lago de Ilopango",
+        "latitude": 13.9938940224787,
+        "longitude": -89.5621236467253,
+        "environment": "Lago",
+        "stars": 4.8,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587032/Ilopango/v5hlbtljwacomalnk5ux.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587032/Ilopango/qg6zgfke6vdkn8sbnlwl.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587031/Ilopango/blsny3pqhl2duqwu0nmt.jpg"
+        ],
+        "comments": [
+            "Como viajadora sola me siento muy comoda.",
+            "¡Excelente! Un ambiente muy amigable y acogedor. ",
+            "Hemos tenido una hermosa estadia en este agradable hostel de Santa Ana."
+        ]
+    }
+    ,
+    {
+        "id": 185,
+        "accommodation": "Hostal Las Puertas",
+        "location": "Lago de Ilopango",
+        "latitude": 13.994513481796652,
+        "longitude": -89.55776887003091,
+        "environment": "Lago",
+        "stars": 4.6,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587641/Ilopango/x1scdiibtfppxyi7lfln.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587641/Ilopango/wvsygd5f0pvz2d1kdogw.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730587642/Ilopango/zjsvppacp5j6pz3qr846.jpg"
+        ],
+        "comments": [
+            "Excelente vista personal amable y muy comodo",
+            "Nuestra estadia nos encanto.",
+            "Quedamos encantados con el servicio y el espacio."
+        ]
+    }
+    ,
+    {
+        "id": 186,
+        "accommodation": "Casa 25 hostal",
+        "location": "Lago de Ilopango",
+        "latitude": 13.98609348132158,
+        "longitude": -89.56475400001145,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730588857/Ilopango/u2x1cljenzn9s1xbmkml.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730588857/Ilopango/bsvmh1scqtcwk4nfwgfl.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730588857/Ilopango/gt7lrobexq1ub4wjcicv.jpg"
+        ],
+        "comments": [
+            "",
+            "",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 187,
+        "accommodation": "Entrecafe Experience",
+        "location": "Lago de Ilopango",
+        "latitude": 13.878525496521945,
+        "longitude": -89.69684804457545,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730595658/Ilopango/bx4gsqafwjphpsxq8jdd.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730595658/Ilopango/gakoixeunrvvamacgz5e.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730595658/Ilopango/w8x6cjktpiachfgheciy.jpg"
+        ],
+        "comments": [
+            "me parecio interesante. Y pues los visite y vaya sorpresa",
+            "Hicimos el tour por una de las fincas de cafe y luego por el area de procesado, secado y seleccionado del mismo. ",
+            "Una experiencia inolvidable, clima perfecto, hicimos glamping en un lugar seguro y acogedor."
+        ]
+    }
+    ,
+    {
+        "id": 188,
+        "accommodation": "El Olimpo",
+        "location": "Lago de Ilopango",
+        "latitude": 13.900130927331345,
+        "longitude": -89.69455430443367,
+        "environment": "Lago",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730596703/Ilopango/f3btis5fraasodndwaxj.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730596702/Ilopango/pqdwgqnf4y9u71ll9glk.jpg",
+            ""
+        ],
+        "comments": [
+            "Es un lindo lugar para tomar un descanso antes de seguir el camino",
+            "Tranquilo...maravilloso.",
+            ""
+        ]
+    },
+    {
+        "id": 189,
+        "accommodation": "Eco cabaña Hostal Le Doratt",
+        "location": "Lago de Ilopango",
+        "latitude": 13.853800514361955,
+        "longitude": -89.6983622126435,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730601098/Ilopango/v4evszfmt0vpn1pnmbzs.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730601098/Ilopango/xuukfjad278lrrwkzpie.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730601098/Ilopango/p9rucphsdgnmvthqc2sn.jpg"
+        ],
+        "comments": [
+            "¡Excelente experiencia!",
+            " las cascadas son hermosas, la caminata es una experiencia que vale totalmente la pena",
+            "Excelente tour para amantes de la naturaleza, aprendí mucho de café"
+        ]
+    }
+    ,
+    {
+        "id": 190,
+        "accommodation": "Ricks hostel",
+        "location": "Lago de Ilopango",
+        "latitude": 13.843771478258036,
+        "longitude": -89.70668691412422,
+        "environment": "Otro",
+        "stars": 5.0,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603277/Ilopango/i2pbtjxp7ayyq6yonudn.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603277/Ilopango/ke3sf2ebik1cfbugysro.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603277/Ilopango/xulltkqarfngp0dbou82.jpg"
+        ],
+        "comments": [
+            "Genial lugar para quedarse: es una granja con muchos animales y la familia es súper amigable.",
+            "Bonito lugar para quedarse",
+            ""
+        ]
+    }
+    ,
+    {
+        "id": 191,
+        "accommodation": "EcoFinca Larache",
+        "location": "Lago de Ilopango",
+        "latitude": 13.83071780297199,
+        "longitude": -89.69290416004132,
+        "environment": "otro",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603823/Ilopango/nxs35lqacahsua7uzrcq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603823/Ilopango/nj1o1ttlb90b1p9tuzdt.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730603822/Ilopango/jehwu6gd0t8ue6i1ekiv.jpg"
+        ],
+        "comments": [
+            "Muy bonito y agradable lugar, para estar en tranquilidad junto con la naturaleza",
+            "El lugar posee bastante belleza natural",
+            "Ideal para pasar todo el día con niños"
+        ]
+    },
+    {
+        "id": 192,
+        "accommodation": "Kafen Hotel",
+        "location": "Lago de Ilopango",
+        "latitude": 13.846368942285238,
+        "longitude": -89.72320493388965,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730605711/Ilopango/f2ugkr817wb4b27ggt6h.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730605711/Ilopango/rhsciqauk1xve0nyleb3.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730605711/Ilopango/ewr7vl4we0xpvd7zgkzr.jpg"
+        ],
+        "comments": [
+            "es el destino perfecto para quienes buscan una experiencia unica",
+            "es el destino perfecto para quienes buscan una experiencia incomparable",
+            "¡Pasé una estancia increíble en Airbnb!"
+        ]
+    },
+    {
+        "id": 193,
+        "accommodation": "Hotel Juayua",
+        "location": "Lago de Ilopango",
+        "latitude": 13.847987211167128,
+        "longitude": -89.74342252675565,
+        "environment": "Lago",
+        "stars": 4.4,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730606472/Ilopango/hmbd6zwfe4fjjipuwnyy.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730606471/Ilopango/ia1vuekofmmd226dbblu.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730606471/Ilopango/io3zy4wqqefyzxdlhp1w.jpg"
+        ],
+        "comments": [
+            "Super recomendado para descansar, personal siempre atento y respetuoso, la comida deliciosa",
+            "Personal muy amable, comida rica, facil de llegar al lugar, hermosa vista y habitacion comoda",
+            "Excelente atencion muy buen lugar para pasar en familia recomendado"
+        ]
+    },
+    {
+        "id": 194,
+        "accommodation": "Hostal DEYLUWIN",
+        "location": "Lago de Ilopango",
+        "latitude": 13.843033189727278,
+        "longitude": -89.74632738540087,
+        "environment": "Lago",
+        "stars": 4.9,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730607495/Ilopango/z3tng5xyvd9hohcqjfxq.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730607495/Ilopango/fikfzthelrhwvpr7aeva.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730607495/Ilopango/soyeavtp48wldpt21eab.jpg"
+        ],
+        "comments": [
+            "Hostal super recomendable",
+            "Super lugar! Ambiente agradable, atencion de primera, muy buen acceso al Hostal",
+            "Me encanto mi estadia en este lugar, honestamente me senti como en casa, el personal se ve altamente calificado y se preocupan por hacerte sentir como en casa"
+        ]
+    },
+    {
+        "id": 195,
+        "accommodation": "Bourbon Hostal",
+        "location": "Lago de Ilopango",
+        "latitude": 13.843125391577685,
+        "longitude": -89.74884566829215,
+        "environment": "Lago",
+        "stars": 4.5,
+        "images": [
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730608424/Ilopango/wdlbbnldy7xzqpup3tdu.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730608424/Ilopango/mhmen3gqyglbgososdjb.jpg",
+            "https://res.cloudinary.com/dafganm7o/image/upload/v1730608425/Ilopango/hzrzgaksxzkdbrl2cl5a.jpg"
+        ],
+        "comments": [
+            "Tengo sentimientos encontrados con este alojamiento.",
+            "Es una opcion acogedora para quienes buscan alojamiento",
+            "Es un lugar bastante centrico , las habitaciones estan bonitas"
+        ]
+    }
+]
