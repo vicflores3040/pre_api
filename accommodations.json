@@ -24,7 +24,7 @@
         "location": "Suchitoto",
         "latitude": 13.938808412528365, 
         "longitude": -89.02433950546572,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4.7,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603917/Los%20Almendros%20de%20San%20Lorenzo1.png",
@@ -62,7 +62,7 @@
         "location": "Suchitlán",
         "latitude": 13.939449302158605, 
         "longitude": -89.02969587535225,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4.5,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603917/La%20Posada%20de%20Suchitl%C3%A1n.png",
@@ -80,7 +80,7 @@
         "location": "Suchitoto",
         "latitude": 13.938826153968668,    
         "longitude": -89.02535738744237,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 5,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730603914/El%20nidito%20de%20flor%20de%20pajaro1.png",
@@ -99,7 +99,7 @@
         "location": "Suchitoto",
         "latitude": 13.936820799763458,   
         "longitude": -89.02563790429586,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4.4,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605278/asa%20de%20la%20Abuela%20-%20Petit%20Hotel.png",
@@ -118,7 +118,7 @@
         "location": "Suchitoto",
         "latitude": 13.937294971629848,  
         "longitude": -89.02492786809921,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605551/Hostal%20El%20Porr%C3%B3n.png",
@@ -135,7 +135,7 @@
         "location": "Suchitoto",
         "latitude": 13.93573089576512,   
         "longitude": -89.02735695578566,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4.2,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730605854/Terrazas%20Guest%20House.png",
@@ -153,7 +153,7 @@
         "location": "Suchitoto",
         "latitude": 13.931964144265027,   
         "longitude": -89.02669432990326,
-        "environment": "Montaña",
+        "environment": "Lago",
         "stars": 4.8,
         "images": [
             "https://res.cloudinary.com/dshhwhv9b/image/upload/v1730606200/Bella%20Habitacion%20El%20Mangal.png",
