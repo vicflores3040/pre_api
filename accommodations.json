@@ -2,9 +2,9 @@
     {
         "id": 1,
         "accommodation": "Hotel Finca Campo Bello",
-        "location": "Cerro Verde",
-        "latitude": 13.832236398485122, 
-        "longitude": -89.63933805761802,
+        "location": "Cerro Verde",  
+        "latitude": 13.831877431664115, 
+        "longitude": -89.63642192248547,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -20,10 +20,10 @@
     },
     {
         "id": 2,
-        "accommodation": "Los Almendros de San Lorenzo",
+        "accommodation": "Hostal Koltin Suchitoto",
         "location": "Suchitoto",
-        "latitude": 13.93818287482132,
-        "longitude": -89.02559169343151,
+        "latitude": 13.938808412528365, 
+        "longitude": -89.02433950546572,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -41,8 +41,8 @@
         "id": 3,
         "accommodation": "Boutique Hotel Los Almendros de San Lorenzo",
         "location": "San Lorenzo",
-        "latitude": 13.93746043336437,
-        "longitude": -89.02676690317928,
+        "latitude": 13.937889212028976,  
+        "longitude": -89.02602116810566,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -78,8 +78,8 @@
         "id": 5,
         "accommodation": "El nidito de flor de pajaro",
         "location": "Suchitoto",
-        "latitude": 13.939212322621014,  
-        "longitude": -89.0234225783132,
+        "latitude": 13.938826153968668,    
+        "longitude": -89.02535738744237,
         "environment": "Montaña",
         "stars": 5,
         "images": [
@@ -96,9 +96,9 @@
     {
         "id": 6,
         "accommodation": "Casa de la Abuela - Petit Hotel",
-        "location": "Playa Ejemplo",
-        "latitude": 13.936860841412814, 
-        "longitude": -89.02534126470849,
+        "location": "Suchitoto",
+        "latitude": 13.936820799763458,   
+        "longitude": -89.02563790429586,
         "environment": "Montaña",
         "stars": 4.4,
         "images": [
@@ -116,8 +116,8 @@
         "id": 7,
         "accommodation": "Hostal El Porrón",
         "location": "Suchitoto",
-        "latitude": 13.937371592319556, 
-        "longitude": -89.02453765015022,
+        "latitude": 13.937294971629848,  
+        "longitude": -89.02492786809921,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -133,8 +133,8 @@
         "id": 8,
         "accommodation": "Terrazas Guest House",
         "location": "Suchitoto",
-        "latitude": 13.935848874483527, 
-        "longitude": -89.02705977365454,
+        "latitude": 13.93573089576512,   
+        "longitude": -89.02735695578566,
         "environment": "Montaña",
         "stars": 4.2,
         "images": [
@@ -151,8 +151,8 @@
         "id": 9,
         "accommodation": "Bella Habitación El Mangal B&B",
         "location": "Suchitoto",
-        "latitude": 13.932039515354518, 
-        "longitude": -89.02615187917718,
+        "latitude": 13.931964144265027,   
+        "longitude": -89.02669432990326,
         "environment": "Montaña",
         "stars": 4.8,
         "images": [
@@ -169,8 +169,8 @@
         "id": 10,
         "accommodation": "Hostal del Tío Elmer",
         "location": "Azacualpa",
-        "latitude": 13.987489596801995, 
-        "longitude": -88.9837700549141,
+        "latitude": 13.987386169489307,   
+        "longitude": -88.98407063501718,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -204,8 +204,8 @@
         "id": 12,
         "accommodation": "La Cumbre Tesoro Escondido",
         "location": "Apaneca",
-        "latitude": 13.873395969915268,
-        "longitude": -89.80471713326851,
+        "latitude": 13.872812748784481,  
+        "longitude": -89.80658076447779,
         "environment": "Montaña",
         "stars": 4.8,
         "images": [
@@ -223,8 +223,8 @@
         "id": 13,
         "accommodation": "Palo Verde Lounge",
         "location": "Apaneca",
-        "latitude": 13.872479191613175,  
-        "longitude": -89.77909668023071,
+        "latitude": 13.870881987672046,    
+        "longitude": -89.78343201535026,
         "environment": "Montaña",
         "stars": 4.8,
         "images": [
@@ -241,8 +241,8 @@
         "id": 14,
         "accommodation": "Entre Montañas",
         "location": "Apaneca",
-        "latitude": 13.875152961999989,  
-        "longitude": -89.75756542843708,
+        "latitude": 13.873881179452155,   
+        "longitude": -89.76511017746806,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -259,8 +259,8 @@
         "id": 15,
         "accommodation": "Lechuza Cafe",
         "location": "Apaneca",
-        "latitude": 13.869999914845994, 
-        "longitude": -89.75628760857501,
+        "latitude": 13.868774617926091,  
+        "longitude": -89.76096143000358,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -277,8 +277,8 @@
         "id": 16,
         "accommodation": "Hotel Juayúa",
         "location": "Juayúa",
-        "latitude": 13.847049260914146, 
-        "longitude": -89.74248925858844,
+        "latitude": 13.846730481699064,  
+        "longitude": -89.74365211903219,
         "environment": "Montaña",
         "stars": 4.4,
         "images": [
@@ -295,8 +295,8 @@
         "id": 17,
         "accommodation": "Hostal Carolinas",
         "location": "Juayúa",
-        "latitude": 13.840425421253036,  
-        "longitude": -89.74297321820049,
+        "latitude": 13.840270719592153,   
+        "longitude": -89.74364578377364,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -313,8 +313,8 @@
         "id": 18,
         "accommodation": "Samay Hostel & Scooter Rental",
         "location": "Juayúa",
-        "latitude": 13.844592327081534,  
-        "longitude": -89.7493991184207,
+        "latitude": 13.844404286333011,   
+        "longitude": -89.75072973485214,
         "environment": "Montaña",
         "stars": 4.9,
         "images": [
@@ -332,8 +332,8 @@
         "id": 19,
         "accommodation": "Bourbon Hostal",
         "location": "Juayúa",
-        "latitude": 13.843198272719388,  
-        "longitude": -89.74807888728918,
+        "latitude": 13.842792797296614,    
+        "longitude": -89.74878692683949,
         "environment": "Montaña",
         "stars": 4.5,
         "images": [
@@ -349,8 +349,8 @@
         "id": 20,
         "accommodation": "Hotel Anahúac",
         "location": "Juayúa",  
-        "latitude": 13.84477298251486,
-        "longitude": -89.74717718745696,
+        "latitude": 13.844567933852376,  
+        "longitude": -89.74764979104673,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -368,8 +368,8 @@
         "id": 21,
         "accommodation": "Juayúa Loft",
         "location": "Juayúa",
-        "latitude": 13.842793618853467,  
-        "longitude": -89.74465994969333,
+        "latitude": 13.842595590217806,   
+        "longitude": -89.74536240403918,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -386,8 +386,8 @@
         "id": 22,
         "accommodation": "Casa Lolita",
         "location": "Juayúa",
-        "latitude": 13.845467556317377,  
-        "longitude": -89.74468941429262,
+        "latitude": 13.845385914433376,    
+        "longitude": -89.74490367560007,
         "environment": "Monraña",
         "stars": 4,
         "images": [
@@ -404,8 +404,8 @@
         "id": 23,
         "accommodation": "Hostal Los Volcanes",
         "location": "Salcoatitan",
-        "latitude": 13.832076593258721,
-        "longitude": -89.75786536782863,
+        "latitude": 13.83156662333904,  
+        "longitude": -89.75970578697732,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -422,8 +422,8 @@
         "id": 24,
         "accommodation": "Casa Las Granadillas",
         "location": "Salcoatitan",
-        "latitude": 13.824545974051677,  
-        "longitude": -89.75323980306842,
+        "latitude": 13.824226797091045,    
+        "longitude": -89.75513880645087,
         "environment": "Montaña",
         "stars": 3,
         "images": [
@@ -441,8 +441,8 @@
         "id": 25,
         "accommodation": "Casa El Maracuyá",
         "location": "Salcoatitan",
-        "latitude": 13.822177716054293, 
-        "longitude": -89.7523309945215, 
+        "latitude": 13.821626948402066,   
+        "longitude": -89.75462701750585, 
         "environment": "Montaña",
         "stars": 4.5,
         "images": [
@@ -460,8 +460,8 @@
         "id": 26,
         "accommodation": "Hotel y Restaurante Perkin Lenca",
         "location": "Perquin",
-        "latitude": 13.953872753406984, 
-        "longitude": -88.16037185894196,
+        "latitude": 13.953590144308286,   
+        "longitude": -88.15619428297423,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -479,8 +479,8 @@
         "id": 27,
         "accommodation": "Villa Verde",
         "location": "Perquin",
-        "latitude": 13.962165899711513,
-        "longitude": -88.14155678765117,  
+        "latitude": 13.960951465450888,  
+        "longitude": -88.14549280709757,  
         "environment": "Montaña",
         "stars": 4.4,
         "images": [
@@ -497,8 +497,8 @@
         "id": 28,
         "accommodation": "Cabaña",
         "location": "Perquin",
-        "latitude": 13.965990071286974,  
-        "longitude": -88.14126291909496,
+        "latitude": 13.964550903115866,    
+        "longitude": -88.14385280424328,
         "environment": "Montaña",
         "stars": 3,
         "images": [
@@ -514,8 +514,8 @@
         "id": 29,
         "accommodation": "Hotel Y Restaurante Arizona",
         "location": "Perquin",
-        "latitude": 13.963563646271538,  
-        "longitude": -88.12592855470456,
+        "latitude": 13.9618874682748,    
+        "longitude": -88.13333015309571,
         "environment": "Montaña",
         "stars": 4.1,
         "images": [
@@ -531,8 +531,8 @@
         "id": 30,
         "accommodation": "Hotel y Restaurante Villa Marquez",
         "location": "Perquin",
-        "latitude": 13.967856236910439,  
-        "longitude": -88.12834991686094,
+        "latitude": 13.966503895172291,   
+        "longitude": -88.13340965800326,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -551,8 +551,8 @@
         "id": 31,
         "accommodation": "Cabaña de Papa Ton",
         "location": "Perquin",
-        "latitude": 13.977705868171908, 
-        "longitude": -88.11788292580843,
+        "latitude": 13.975889429723622,   
+        "longitude": -88.12602636763424,
         "environment": "Montaña",
         "stars": 45,
         "images": [
@@ -570,8 +570,8 @@
         "id": 32,
         "accommodation": "Vida Sana Cades El Salvador",
         "location": "Perquin",
-        "latitude": 13.941296913161848, 
-        "longitude": -88.166974130282,
+        "latitude": 13.937361981079858,   
+        "longitude": -88.17823559853043,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -588,8 +588,8 @@
         "id": 33,
         "accommodation": "Hotel El Ocotal",
         "location": "Perquin",
-        "latitude": 13.930436511030504,  
-        "longitude": -88.14433555608493,
+        "latitude": 13.92993430946304,   
+        "longitude": -88.14660110712158,
         "environment": "Montaña",
         "stars": 4.2,
         "images": [
@@ -607,8 +607,8 @@
         "id": 34,
         "accommodation": "Vistas del Gigante",
         "location": "Perquin",
-        "latitude": 13.927682129840885,  
-        "longitude": -88.15170037236402,
+        "latitude": 13.927363946039174,   
+        "longitude": -88.15292653466798,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -625,8 +625,8 @@
         "id": 35,
         "accommodation": "Arambala Carajo",
         "location": "Perquin",
-        "latitude": 13.92706173139882,  
-        "longitude": -88.13003783100176,
+        "latitude": 13.926933516310214,   
+        "longitude": -88.13039553081146,
         "environment": "Montaña",
         "stars": 4.4,
         "images": [
@@ -643,8 +643,8 @@
         "id": 36,
         "accommodation": "Hostal Siesta",
         "location": "San Fernando",
-        "latitude": 13.960929998423637, 
-        "longitude": -88.15786755471473,
+        "latitude": 13.959385406469478,   
+        "longitude": -88.16235772570575,
         "environment": "Montaña",
         "stars": 5,
         "images": [
@@ -660,10 +660,10 @@
     },
     {
         "id": 37,
-        "accommodation": "HLos Pinos - Cabañas y Camping",
+        "accommodation": "Los Pinos - Cabañas y Camping",
         "location": "San Fernando",
-        "latitude": 13.962636706837364, 
-        "longitude": -88.1378256235812,
+        "latitude": 13.961983917039472,  
+        "longitude": -88.14198381705886,
         "environment": "Montaña",
         "stars": 4.7,
         "images": [
@@ -681,8 +681,8 @@
         "id": 38,
         "accommodation": "La Posada de Don Manuel",
         "location": "San Fernando",
-        "latitude": 13.95553963295204,  
-        "longitude": -88.15529120338694,
+        "latitude": 13.95391576787546,    
+        "longitude": -88.15896372733852,
         "environment": "Montaña",
         "stars": 3,
         "images": [
@@ -700,8 +700,8 @@
         "id": 39,
         "accommodation": "El rinconcito de Tejera",
         "location": "San Fernando",
-        "latitude": 13.948196981457844,  
-        "longitude": -88.13502533019098,
+        "latitude": 13.946581295135884,   
+        "longitude": -88.14305239523243,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -717,8 +717,8 @@
         "id": 40,
         "accommodation": "Hotel y Restaurante Las Margaritas",
         "location": "San Fernando",
-        "latitude": 13.950237693780009,  
-        "longitude": -88.14242492556406,
+        "latitude": 13.949859837581963,   
+        "longitude": -88.144113776765,
         "environment": "PlaMontañaya",
         "stars": 4.1,
         "images": [
@@ -736,8 +736,8 @@
         "id": 41,
         "accommodation": "Hostal Don Luis",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.626925992574117,  
-        "longitude": -87.88478015920317,
+        "latitude": 13.626488112119029,   
+        "longitude": -87.88695442346229,
         "environment": "Montaña",
         "stars": 4.5,
         "images": [
@@ -755,8 +755,8 @@
         "id": 42,
         "accommodation": "Hotel Mediterraneo Inn",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.628560665573175,  
-        "longitude": -87.89109216446788, 
+        "latitude": 13.6279453255874,   
+        "longitude": -87.89387947667947, 
         "environment": "Montaña",
         "stars": 4.4,
         "images": [
@@ -774,8 +774,8 @@
         "id": 43,
         "accommodation": "Hotel Los Hermanos",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.626680596162705, 
-        "longitude": -87.88937793399454,
+        "latitude": 13.626453310235604,  
+        "longitude": -87.89029352287307,
         "environment": "Montaña",
         "stars": 3.9,
         "images": [
@@ -793,8 +793,8 @@
         "id": 44,
         "accommodation": "Hotel El Tejano Amigo",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.635604356565258,  
-        "longitude": -87.89211998721856,
+        "latitude": 13.635067505799402,   
+        "longitude": -87.89120160383493,
         "environment": "Montaña",
         "stars": 3.5,
         "images": [
@@ -811,8 +811,8 @@
         "id": 45,
         "accommodation": "Casa 19",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.639275946787517,  
-        "longitude": -87.87690693137777,
+        "latitude": 13.638558242041093,   
+        "longitude": -87.87865843019304,
         "environment": "Montaña",
         "stars": 5,
         "images": [
@@ -828,8 +828,8 @@
         "id": 46,
         "accommodation": "Hotel El Mago",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.632093060294423,  
-        "longitude": -87.85249484870627,
+        "latitude": 13.631426726983538,   
+        "longitude": -87.8545978149688,
         "environment": "Montaña",
         "stars": 4.6,
         "images": [
@@ -845,8 +845,8 @@
         "id": 47,
         "accommodation": "Hotel El Paladium",
         "location": "Santa Rosa de Lima",
-        "latitude": 13.621722006353522,  
-        "longitude": -87.85690347733825,
+        "latitude": 13.621580434970731,   
+        "longitude": -87.85737080747751,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -862,8 +862,8 @@
         "id": 48,
         "accommodation": "Cabañas y Restaurante Allá Arriba",
         "location": "Miramundo",
-        "latitude": 14.344196752742068,  
-        "longitude": -89.11416713745884,
+        "latitude": 14.343938350254982,   
+        "longitude": -89.11474108877012,
         "environment": "Montaña",
         "stars": 4.3,
         "images": [
@@ -881,8 +881,8 @@
         "id": 49,
         "accommodation": "Un rincón cerca del cielo",
         "location": "Miramundo",
-        "latitude": 14.342518759261333,  
-        "longitude": -89.11386151404642,
+        "latitude": 14.34237542405917,   
+        "longitude": -89.11473648486911,
         "environment": "Montaña",
         "stars": 5,
         "images": [
@@ -898,8 +898,8 @@
         "id": 50,
         "accommodation": "El Rinconcito",
         "location": "Miramundo",
-        "latitude": 14.341928671701764,  
-        "longitude": -89.11397396060809,
+        "latitude": 14.341785865689667,   
+        "longitude": -89.11452730774012,
         "environment": "Montaña",
         "stars": 4,
         "images": [
@@ -915,8 +915,8 @@
         "id": 51,
         "accommodation": "Rancho Paraiso",
         "location": "El Zapote",
-        "latitude": 13.705756602068353,  
-        "longitude": -90.0340138613056,
+        "latitude": 13.70523391509687,   
+        "longitude": -90.03609028253547,
         "environment": "Playa",
         "stars": 4,
         "images": [
@@ -934,8 +934,8 @@
         "id": 52,
         "accommodation": "La Cocotera Resort & Ecolodge",
         "location": "El Zapote",
-        "latitude": 13.70112785276165,  
-        "longitude": -90.02664890617937,
+        "latitude": 13.700829542991276,   
+        "longitude": -90.02918414694419,
         "environment": "Playa",
         "stars": 4.4,
         "images": [
@@ -953,8 +953,8 @@
         "id": 53,
         "accommodation": "Rancho Bocamar",
         "location": "El Zapote",
-        "latitude": 13.701799900229135,  
-        "longitude": -90.02359342884446,
+        "latitude": 13.701457274775317,   
+        "longitude": -90.02551119022418,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -972,8 +972,8 @@
         "id": 54,
         "accommodation": "Rancho ISIDORITO",
         "location": "El Zapote",
-        "latitude": 13.699795041704899,  
-        "longitude": -90.02032441269262,
+        "latitude": 13.699594547852769,   
+        "longitude": -90.02192843288434,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -991,8 +991,8 @@
         "id": 55,
         "accommodation": "Rancho Palmeral",
         "location": "El Zapote",
-        "latitude": 13.696829491931183, 
-        "longitude": -90.01567893409539,
+        "latitude": 13.69660082496687,  
+        "longitude": -90.01688463783196,
         "environment": "Playa",
         "stars": 4.5,
         "images": [
@@ -1009,8 +1009,8 @@
         "id": 56,
         "accommodation": "Hostal El Abuelo",
         "location": "Barra de Santiago",
-        "latitude": 13.693432908096613,  
-        "longitude": -90.00781553018241,
+        "latitude": 13.69323939800105,   
+        "longitude": -90.00856245652074,
         "environment": "Playa",
         "stars": 4.3,
         "images": [
@@ -1028,8 +1028,8 @@
         "id": 57,
         "accommodation": "Rancho El Manglar",
         "location": "Barra de Santiago",
-        "latitude": 13.6890965792164,  
-        "longitude": -89.99930377426966,
+        "latitude": 13.688936878560835,   
+        "longitude": -89.99970356249344,
         "environment": "Playa",
         "stars": 3.7,
         "images": [
@@ -1046,8 +1046,8 @@
         "id": 58,
         "accommodation": "Rancho El Tio",
         "location": "Barra de Santiago",
-        "latitude": 13.687776137567996,  
-        "longitude": -89.99788563810358,
+        "latitude": 13.68761338047827,   
+        "longitude": -89.9986822134611,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1062,8 +1062,8 @@
         "id": 59,
         "accommodation": "Rancho Miramar",
         "location": "Barra de Santiago",
-        "latitude": 13.682738357211747,  
-        "longitude": -89.98720942937393,
+        "latitude": 13.682542459350188,   
+        "longitude": -89.98797709547969,
         "environment": "Playa",
         "stars": 4.5,
         "images": [
@@ -1081,8 +1081,8 @@
         "id": 60,
         "accommodation": "Rancho Costa Dorada",
         "location": "Barra de Santiago",
-        "latitude": 13.682053034324408,  
-        "longitude": -89.98497954258796,
+        "latitude": 13.681866148901548,   
+        "longitude": -89.98600220554242,
         "environment": "Playa",
         "stars": 4.9,
         "images": [
@@ -1098,8 +1098,8 @@
         "id": 61,
         "accommodation": "Restaurante y Hotel Brisas Marinas",
         "location": "Los Cobanos",
-        "latitude": 13.541169023505981,  
-        "longitude": -89.82053044960271,
+        "latitude": 13.540697762574045,   
+        "longitude": -89.82288783419838,
         "environment": "Playa",
         "stars": 4.1,
         "images": [
@@ -1116,8 +1116,8 @@
         "id": 62,
         "accommodation": "Casa Coral Boutique Hotel",
         "location": "Los Cobanos",
-        "latitude": 13.53927926130526,  
-        "longitude": -89.81829516812253,
+        "latitude": 13.538594573734889,   
+        "longitude": -89.82114035399232,
         "environment": "Playa",
         "stars": 3.7,
         "images": [
@@ -1135,8 +1135,8 @@
         "id": 63,
         "accommodation": "Villa Capri",
         "location": "Los Cobanos",
-        "latitude": 13.537852143525141,  
-        "longitude": -89.81842483085146,
+        "latitude": 13.537460889816192,   
+        "longitude": -89.81990688335978,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1154,8 +1154,8 @@
         "id": 64,
         "accommodation": "Villa Bachata Rosa",
         "location": "Los Cobanos",
-        "latitude": 13.530392175322666,  
-        "longitude": -89.80947697122896,
+        "latitude": 13.529870017001738,   
+        "longitude": -89.80995448533659,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1173,8 +1173,8 @@
         "id": 65,
         "accommodation": "Ranchos Privados Playa El Flor",
         "location": "Los Cobanos",
-        "latitude": 13.527700522681773,  
-        "longitude": -89.78969916419857,
+        "latitude": 13.527506855351058,   
+        "longitude": -89.7904053446973,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1192,8 +1192,8 @@
         "id": 66,
         "accommodation": "NAIA - Miravalle",
         "location": "Los Cobanos",
-        "latitude": 13.532146992023042,  
-        "longitude": -89.75844768873272,
+        "latitude": 13.532037767930348,   
+        "longitude": -89.75887012548522,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1211,8 +1211,8 @@
         "id": 67,
         "accommodation": "Rancho Roscan",
         "location": "Miravalle",
-        "latitude": 13.530998620784175,  
-        "longitude": -89.75268270423781,
+        "latitude": 13.530871496428553,   
+        "longitude": -89.75312890504878,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1230,8 +1230,8 @@
         "id": 68,
         "accommodation": "Casa V Mizata",
         "location": "Mizata",
-        "latitude": 13.512149479761964, 
-        "longitude": -89.59701517224028,
+        "latitude": 13.512002340126713,   
+        "longitude": -89.59750979764179,
         "environment": "Playa",
         "stars": 4.3,
         "images": [
@@ -1249,8 +1249,8 @@
         "id": 69,
         "accommodation": "Casaola Mizata",
         "location": "Mizata",
-        "latitude": 13.511771770822634,  
-        "longitude": -89.59752004369167,
+        "latitude": 13.51169141695107,   
+        "longitude": -89.59775744000927,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1268,8 +1268,8 @@
         "id": 70,
         "accommodation": "Mizata Bunkhouse",
         "location": "Mizata",
-        "latitude": 13.51139217880059,  
-        "longitude": -89.59674105440777,
+        "latitude": 13.511344098334336,   
+        "longitude": -89.59705022019916,
         "environment": "Playa",
         "stars": 4.7,
         "images": [
@@ -1284,8 +1284,8 @@
         "id": 71,
         "accommodation": "Meraki",
         "location": "Mizata",
-        "latitude": 13.512228755365548,  
-        "longitude": -89.59636325896535,
+        "latitude": 13.51218913320348,   
+        "longitude": -89.5964669697204,
         "environment": "Playa",
         "stars": 3.5,
         "images": [
@@ -1302,8 +1302,8 @@
         "id": 72,
         "accommodation": "El Rancho de Don Moncho",
         "location": "Taquilo",
-        "latitude": 3.498733453190802,  
-        "longitude": -89.48779052171173,
+        "latitude": 13.49875035608431,   
+        "longitude": -89.48808571149398,
         "environment": "Playa",
         "stars": 4.9,
         "images": [
@@ -1321,8 +1321,8 @@
         "id": 73,
         "accommodation": "Casa En El Risco",
         "location": "Taquilo",
-        "latitude": 13.49842009191266,  
-        "longitude": -89.48788488902511,
+        "latitude": 13.498355550286616,   
+        "longitude": -89.48844623122218,
         "environment": "Playa",
         "stars": 4,
         "images": [
@@ -1338,8 +1338,8 @@
         "id": 74,
         "accommodation": "SHALPA BY ROSELL",
         "location": "Taquilo",
-        "latitude": 13.498901022472749, 
-        "longitude": -89.48739597666764,
+        "latitude": 13.49883465875251,  
+        "longitude": -89.48762468929158,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1357,8 +1357,8 @@
         "id": 75,
         "accommodation": "ALMA DE MAR, Luxury Villa El Salvador",
         "location": "Taquilo",
-        "latitude": 13.497995039944763,  
-        "longitude": -89.48726040361501,
+        "latitude": 13.497917871940956,   
+        "longitude": -89.48758213532618,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1374,8 +1374,8 @@
         "id": 76,
         "accommodation": "Zonte Escondido",
         "location": "El Zonte",
-        "latitude": 13.498408236677582,  
-        "longitude": -89.4493765830371,
+        "latitude": 13.498078857638042,   
+        "longitude": -89.45095143833781,
         "environment": "Playa",
         "stars": 3.4,
         "images": [
@@ -1391,8 +1391,8 @@
         "id": 77,
         "accommodation": "El Xalli",
         "location": "El Zonte",
-        "latitude": 13.496881278658238,  
-        "longitude": -89.44876824635132,
+        "latitude": 13.49668029918365,   
+        "longitude": -89.44933522108953,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1410,8 +1410,8 @@
         "id": 78,
         "accommodation": "PICUS Zonte Beach House",
         "location": "El Zonte", 
-        "latitude": 13.496483061772807,  
-        "longitude": -89.44684763121101,
+        "latitude": 13.49639739535155,   
+        "longitude": -89.44732268380997,
         "environment": "Playa",
         "stars": 4.7,
         "images": [
@@ -1429,8 +1429,8 @@
         "id": 79,
         "accommodation": "Garten Hotel",
         "location": "El Zonte",
-        "latitude": 13.49585538296813,  
-        "longitude": -89.44317397790927,
+        "latitude": 13.496218911490251,   
+        "longitude": -89.44332944267128,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1448,8 +1448,8 @@
         "id": 80,
         "accommodation": "Looking 2 Good Surf & Beachfront Hotel",
         "location": "El Zonte",
-        "latitude": 13.495704023493532,  
-        "longitude": -89.44195930384623,
+        "latitude": 13.495622249015515,   
+        "longitude": -89.44217068115334,
         "environment": "Playa",
         "stars": 4.7,
         "images": [
@@ -1467,8 +1467,8 @@
         "id": 81,
         "accommodation": "Olas Permanentes El Zonte",
         "location": "El Zonte",
-        "latitude": 13.495254238185607,  
-        "longitude": -89.44113459795588,
+        "latitude": 13.495173893068419,   
+        "longitude": -89.44132403859419,
         "environment": "Playa",
         "stars": 4,
         "images": [
@@ -1486,8 +1486,8 @@
         "id": 82,
         "accommodation": "Almare Zonte",
         "location": "El Zonte",
-        "latitude": 13.494652054737344, 
-        "longitude": -89.4401591235678,
+        "latitude": 13.49460552951241,  
+        "longitude": -89.4403858423279,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1505,8 +1505,8 @@
         "id": 83,
         "accommodation": "Palo Verde Sustainable Hotel",
         "location": "El Zonte",
-        "latitude": 13.495780878315498, 
-        "longitude": -89.43815480990658,
+        "latitude": 13.49574830071093,  
+        "longitude": -89.4383038240691,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1524,8 +1524,8 @@
         "id": 84,
         "accommodation": "Lost Paradise El salvador",
         "location": "Atami",
-        "latitude": 13.497578144266171,  
-        "longitude": -89.41490596421961,
+        "latitude": 13.497305587138923,   
+        "longitude": -89.41674802620004,
         "environment": "Playa",
         "stars": 4.3,
         "images": [
@@ -1543,8 +1543,8 @@
         "id": 85,
         "accommodation": "Atami Escape Resort",
         "location": "Atami",
-        "latitude": 13.49515962938436,  
-        "longitude": -89.41848979751005,
+        "latitude": 13.494829285900732, 
+        "longitude": -89.41955561268077,
         "environment": "Playa",
         "stars": 4.4,
         "images": [
@@ -1562,8 +1562,8 @@
         "id": 86,
         "accommodation": "Hammock Plantation (hostel)",
         "location": "Atami",
-        "latitude": 13.495959629389967,  
-        "longitude": -89.42387858467893,
+        "latitude": 13.495736531317279,   
+        "longitude": -89.4231238130651,
         "environment": "Playa",
         "stars": 4.3,
         "images": [
@@ -1580,8 +1580,8 @@
         "id": 87,
         "accommodation": "Casa Cuscatlan",
         "location": "Atami",
-        "latitude": 13.498946492618511,  
-        "longitude": -89.41397429477003,
+        "latitude": 13.498544834071465,   
+        "longitude": -89.4151765112982,
         "environment": "Playa",
         "stars": 4.9,
         "images": [
@@ -1599,8 +1599,8 @@
         "id": 88,
         "accommodation": "Las Mañanitas",
         "location": "Xanadu",
-        "latitude": 13.494882480273517,  
-        "longitude": -89.40901358969367,
+        "latitude": 13.494513102766453,   
+        "longitude": -89.41044652950416,
         "environment": "Playa",
         "stars": 4.9,
         "images": [
@@ -1618,8 +1618,8 @@
         "id": 89,
         "accommodation": "Chez Mondrian",
         "location": "Xanadu",
-        "latitude": 13.49570919897927,  
-        "longitude": -89.4091909012242,
+        "latitude": 13.495607974626209,   
+        "longitude": -89.41029171274657,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1636,8 +1636,8 @@
         "id": 90,
         "accommodation": "Sueño del Pacifico",
         "location": "Xanadu",
-        "latitude": 13.495704820470948,  
-        "longitude": -89.41105633580872,
+        "latitude": 13.495604275941243,   
+        "longitude": -89.41144292368254,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1655,8 +1655,8 @@
         "id": 91,
         "accommodation": "Villa del Sol - Bungalows",
         "location": "Xanadu",
-        "latitude": 13.495088943937656,  
-        "longitude": -89.40719116023746,
+        "latitude": 13.494974124766799,   
+        "longitude": -89.40744903051389,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1672,8 +1672,8 @@
         "id": 92,
         "accommodation": "La Curva de Don Gere",
         "location": "Sol y Mar",
-        "latitude": 13.493667552564466, 
-        "longitude": -89.40200983089238,
+        "latitude": 13.493549451559991,  
+        "longitude": -89.40144423674778,
         "environment": "Playa",
         "stars": 4.2,
         "images": [
@@ -1691,8 +1691,8 @@
         "id": 93,
         "accommodation": "The Bitcoin Mansion",
         "location": "Sol y Mar",
-        "latitude": 13.49363588130002,
-        "longitude": -89.40019417080524,
+        "latitude": 13.493557062093277, 
+        "longitude": -89.40042030095263,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1710,8 +1710,8 @@
         "id": 94,
         "accommodation": "Villas del Mar, Sunzal",
         "location": "Sol y Mar",
-        "latitude": 13.496147375517003,  
-        "longitude": -89.4003538988976,
+        "latitude": 13.49601561973886,   
+        "longitude": -89.40103595425126,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1727,8 +1727,8 @@
         "id": 95,
         "accommodation": "Yali Sunzal Hotel & Resort",
         "location": "El Aunzal",
-        "latitude": 13.49526235954633,  
-        "longitude": -89.39423482231412,
+        "latitude": 13.494986800582376, 
+        "longitude": -89.39524694102619,
         "environment": "Playa",
         "stars": 3.7,
         "images": [
@@ -1746,8 +1746,8 @@
         "id": 96,
         "accommodation": "Sunzal Garden Surf Hub",
         "location": "El Aunzal",
-        "latitude": 13.49407193539789,  
-        "longitude": -89.39222275691982,
+        "latitude": 13.493969203747842,   
+        "longitude": -89.39270610985733,
         "environment": "Playa",
         "stars": 4.7,
         "images": [
@@ -1764,8 +1764,8 @@
         "id": 97,
         "accommodation": "Ola Verde",
         "location": "El Aunzal",
-        "latitude": 13.49622188997582,  
-        "longitude": -89.39315260619935,
+        "latitude": 13.496134272722404,   
+        "longitude": -89.39331621068477,
         "environment": "Playa",
         "stars": 5,
         "images": [
@@ -1781,8 +1781,8 @@
         "id": 98,
         "accommodation": "Olalai Beach Lounge",
         "location": "El Aunzal",
-        "latitude": 13.493204475699429,
-        "longitude": -89.39192335626922,  
+        "latitude": 13.493145127795811, 
+        "longitude": -89.3917834558159,  
         "environment": "Playa",
         "stars": 4,
         "images": [
@@ -1800,8 +1800,8 @@
         "id": 99,
         "accommodation": "Balancé Yoga Retreat",
         "location": "El Tunco",
-        "latitude": 13.493500448321392,  
-        "longitude": -89.38089903727288,
+        "latitude": 13.493473529244786,   
+        "longitude": -89.38094137020799,
         "environment": "Playa",
         "stars": 4.8,
         "images": [
@@ -1819,8 +1819,8 @@
         "id": 100,
         "accommodation": "Boca Olas Resort & Villas",
         "location": "El Tunco",
-        "latitude": 13.494199681267512,  
-        "longitude": -89.37951053636581,
+        "latitude": 13.493873782842604,  
+        "longitude": -89.38008699436386,
         "environment": "Playa",
         "stars": 4.6,
         "images": [
@@ -1834,13 +1834,13 @@
             "Esta es la segunda vez que me hospedo con el atento personal de Boca Olas. La casa principal es un lugar increíble para hospedarse con toda la familia, incluidos los niños."
         ]
     },
-    {
+        {
         
         "id": 101,
         "accommodation": "Tiki Island Hostal y Restaurante",
-        "location": "Lago Coatepeque",
-        "latitude": 13.878620331178015, 
-        "longitude": -89.5662270987273,
+        "location": "El congo",
+        "latitude": 13.877805351801458, 
+        "longitude": -89.56626750029818,
         "environment": "Lago",
         "stars": 4.9,
         "images": [
@@ -1857,9 +1857,9 @@
     {
         "id": 102,
         "accommodation": "Hostal & Bar Xtream",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.8800556097997, 
-        "longitude": -89.56314764634642,
+        "location": "Santa Ana",
+        "latitude": 13.879816668613241,
+        "longitude": -89.56305120522103,
         "environment": "Lago",
         "stars": 3.8,
         "images": [
@@ -1876,10 +1876,10 @@
     {
         "id": 103,
         "accommodation": "Casa Vista Veneto apartments",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.878342433479258,
-        "longitude": -89.56575534604481,
-        "environment": "Lago",
+        "location": "El congo",
+        "latitude": 13.878145174438012,
+        "longitude": -89.56570413519064,
+        "environment": "Otro",
         "stars": 4.7,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730005327/Coatepeque/bubx7xrltrso4mjvtj6w.jpg",
@@ -1895,9 +1895,9 @@
     {
         "id": 104,
         "accommodation": "THE MAMBA HOUSE",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877932112897218, 
-        "longitude": -89.5660457460781,
+        "location": "El congo",
+        "latitude": 13.877931770657598,
+        "longitude": -89.56604598954382,
         "environment": "Lago",
         "stars": 4.1,
         "images": [
@@ -1914,9 +1914,9 @@
     {
         "id": 105,
         "accommodation": "Yakamoz Villa 21. Hotel & Resort",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877814919984907,
-        "longitude": -89.56609637032459,
+        "location": "Coatepeque",
+        "latitude": 13.877812641632826,
+        "longitude": -89.56609896316994,
         "environment": "Lago",
         "stars": 5,
         "images": [
@@ -1933,9 +1933,9 @@
     {
         "id": 106,
         "accommodation": "Casa Prana",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877697179474891,
-        "longitude": -89.56634854374099,
+        "location": "Coatepeque",
+        "latitude": 13.87769430683314,
+        "longitude": -89.56635061293842,
         "environment": "Lago",
         "stars": 4.5,
         "images": [
@@ -1952,9 +1952,9 @@
     {
         "id": 107,
         "accommodation": "Hotel El Faro Proyecto Turistico",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877778250593757,
-        "longitude": -89.56618671814516,
+        "location": "Coatepeque",
+        "latitude": 13.87778365326115, 
+        "longitude": -89.56619158841491,
         "environment": "Lago",
         "stars": 3.5,
         "images": [
@@ -1971,9 +1971,9 @@
     {
         "id": 108,
         "accommodation": "Cabaña del Faro",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877717386176931,
-        "longitude": -89.5662893370848,
+        "location": "Coatepeque",
+        "latitude": 13.877716191921873,
+        "longitude": -89.56629282495338,
         "environment": "Lago",
         "stars": 5.0,
         "images": [
@@ -1990,9 +1990,9 @@
     {
         "id": 109,
         "accommodation": "Casa Vista Veneto apartments",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.878139732436226,
-        "longitude": -89.56570348883216,
+        "location": "El congo",
+        "latitude": 13.878144655645157,
+        "longitude": -89.56570374756821,
         "environment": "Lago",
         "stars": 4.7,
         "images": [
@@ -2010,9 +2010,9 @@
         "id": 110,
         "accommodation": "Quinta Sunrise",
         "location": "Lago de Coatepeque",
-        "latitude": 13.878663250608751,
-        "longitude": -89.56522828153238,
-        "environment": "Lago",
+        "latitude": 13.87866412560205,
+        "longitude": -89.56523030423493,
+        "environment": "Otro",
         "stars": 4.8,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730008875/Coatepeque/kz0cizjca6dihrlpc4so.jpg",
@@ -2028,10 +2028,10 @@
     {
         "id": 111,
         "accommodation": "Rancho JSam",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.879153280346635,
-        "longitude": -89.56416956835434,
-        "environment": "Lago",
+        "location": "Coatepeque",
+        "latitude": 13.879151935962682,
+        "longitude": -89.56416718661254,
+        "environment": "Otro",
         "stars": 4.8,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730009257/Coatepeque/atye3makkurh4vfwbyu8.jpg",
@@ -2048,8 +2048,7 @@
         "id": 112,
         "accommodation": "Hotel y Restaurante Silver Lake",
         "location": "Lago de Coatepeque",
-        "latitude": 13.879290994704354,
-        "longitude": -89.56374705820645,
+        "latitude": 13.879289291582682,        	"longitude": -89.5637467503495,
         "environment": "Lago",
         "stars": 4.0,
         "images": [
@@ -2066,9 +2065,9 @@
     {
         "id": 113,
         "accommodation": "Captain Morgan Hostel",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.879486603183727,
-        "longitude": -89.56332519692315,
+        "location": "Santa Ana",
+        "latitude": 13.879480891827438,
+        "longitude": -89.56332757086707,
         "environment": "Lago",
         "stars": 4.2,
         "images": [
@@ -2085,9 +2084,9 @@
     {
         "id": 114,
         "accommodation": "Quinta Moica",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.879643137435185,
-        "longitude": -89.56337216800533,
+        "location": "El congo",
+        "latitude": 13.87964379026633,
+        "longitude": -89.5633679834136,
         "environment": "Lago",
         "stars": 5.0,
         "images": [
@@ -2104,9 +2103,9 @@
     {
         "id": 115,
         "accommodation": "Restaurante y Hostal Romayor",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.879908410667882,
-        "longitude": -89.56292743018092,
+        "location": "Santa Ana",
+        "latitude": 13.880359433652062,
+        "longitude": -89.56192986426097,
         "environment": "Lago",
         "stars": 4.9,
         "images": [
@@ -2123,10 +2122,10 @@
     {
         "id": 116,
         "accommodation": "Rancho Channel",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.8810129293077,
-        "longitude": -89.56088124722528,
-        "environment": "Lago",
+        "location": "El congo",
+        "latitude": 13.881010019383638,
+        "longitude": -89.56088049357844,
+        "environment": "Otro",
         "stars": 4.3,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730011311/Coatepeque/ph607evexmpdwatqyef7.jpg",
@@ -2143,9 +2142,9 @@
         "id": 117,
         "accommodation": "Quinta Monarca",
         "location": "Lago de Coatepeque",
-        "latitude": 13.882165781325563,
-        "longitude": -89.5592716760292,
-        "environment": "Lago",
+        "latitude": 13.882164703673102,
+        "longitude": -89.55930984667931,
+        "environment": "Otro",
         "stars": 5.0,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730011672/Coatepeque/hchcwbibhsekcefrmf44.jpg",
@@ -2161,9 +2160,9 @@
     {
         "id": 118,
         "accommodation": "Rancho San Gabriel",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.88533584181898,
-        "longitude": -89.55797531531917,
+        "location": "Coatepeque",
+        "latitude": 13.88533651561792,
+        "longitude": -89.55797349642003,
         "environment": "Lago",
         "stars": 4.5,
         "images": [
@@ -2173,16 +2172,16 @@
         ],
         "comments": [
             "Excelente lugar",
-            "Un lugar muy bonito amplio y con una vista al lago panoramica y el muelle es muy completo con parrilla para hacer un asado",
-            "Amplio y ambiente fresco, con abundante vegetacion"
+            "Un lugar muy bonito amplio y con una vista al lago panorámica y el muelle es muy completo con parrilla para hacer un asado",
+            "Amplio y ambiente fresco, con abundante vegetación"
         ]
     },
     {
         "id": 119,
         "accommodation": "Quinta Los Patos",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.862153284712857,
-        "longitude": -89.57316748531264,
+        "location": "Coatepeque",
+        "latitude": 13.862122041765705,
+        "longitude": -89.57316902921961,
         "environment": "Lago",
         "stars": 4.7,
         "images": [
@@ -2199,9 +2198,9 @@
     {
         "id": 120,
         "accommodation": "Hotel Secreto de La Montaña",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.888076043065968,
-        "longitude": -89.55338515778065,
+        "location": "El Congo",
+        "latitude": 13.888034871256048,
+        "longitude": -89.55339931338612,
         "environment": "Lago",
         "stars": 4.0,
         "images": [
@@ -2218,9 +2217,9 @@
     {
         "id": 121,
         "accommodation": "Quinta de El Faro",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.893082607125335,
-        "longitude": -89.53914367950316,
+        "location": "El Congo",
+        "latitude": 13.893012530313186,
+        "longitude": -89.539126355012,
         "environment": "Lago",
         "stars": 4.3,
         "images": [
@@ -2238,9 +2237,9 @@
     {
         "id": 122,
         "accommodation": "Quinta Acapulco",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.892077560157988,
-        "longitude": -89.53922652781824,
+        "location": "Coatepeque",
+        "latitude": 13.891980355223092,
+        "longitude": -89.53920297818306,
         "environment": "Lago",
         "stars": 5.0,
         "images": [
@@ -2259,8 +2258,8 @@
         "id": 123,
         "accommodation": "Cardedeu Hotel",
         "location": "Lago de Coatepeque",
-        "latitude": 13.890083458035836,
-        "longitude": -89.53499297601054,
+        "latitude": 13.881052794204008,
+        "longitude": -89.560787203955,
         "environment": "Lago",
         "stars": 4.6,
         "images": [
@@ -2279,8 +2278,8 @@
         "id": 124,
         "accommodation": "Villas Noelia",
         "location": "Lago de Coatepeque",
-        "latitude": 13.884601759887081,
-        "longitude": -89.52546323906947,
+        "latitude": 13.884529801610512,
+        "longitude": -89.52544655889086,
         "environment": "Lago",
         "stars": 4.6,
         "images": [
@@ -2298,9 +2297,9 @@
     {
         "id": 125,
         "accommodation": "Rancho Alegre Coatepeque",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.88351685307299,
-        "longitude": -89.52572536672638,
+        "location": "El Congo",
+        "latitude": 13.883513091323037,
+        "longitude": -89.52572677291596,
         "environment": "Lago",
         "stars": 3.8,
         "images": [
@@ -2318,9 +2317,9 @@
     {
         "id": 126,
         "accommodation": "Quinta Kassandra (Casa Campestre)",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.883290840910133,
-        "longitude": -89.52503840163837,
+        "location": "El Congo",
+        "latitude": 13.883281011717262,
+        "longitude": -89.52504474785736,
         "environment": "Lago",
         "stars": 4.7,
         "images": [
@@ -2337,9 +2336,9 @@
     {
         "id": 127,
         "accommodation": "RESTAURANTE RANCHO ALEGRE 2",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.881485541102327,
-        "longitude": -89.52349657749606,
+        "location": "Coatepeque",
+        "latitude": 13.881452721707975,
+        "longitude": -89.5234872429484,
         "environment": "Lago",
         "stars": 4.0,
         "images": [
@@ -2352,13 +2351,14 @@
             "Muy bonito lugar para poder pasar vacaciones se lo recomiendo",
             "Un bello lugar a visitar en el lago de Coatepeque, una variedad en su menu  y bella vista hacia el lago, recomendable visitarlos"
         ]
-    },
+    }
+    ,
     {
         "id": 128,
         "accommodation": "Quinta Cantarrana",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.877040529112652,
-        "longitude": -89.5218022530344,
+        "location": "El Congo",
+        "latitude": 13.876991982472399,
+        "longitude": -89.52180326912752,
         "environment": "Lago",
         "stars": 4.6,
         "images": [
@@ -2371,13 +2371,14 @@
             "Linda propiedad, excelente atención de los guardianes, precio levemente alto",
             "Hermoso!!!"
         ]
-    },
+    }
+    ,
     {
         "id": 129,
         "accommodation": "Quinta Sunset",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.873275948447278,
-        "longitude": -89.52234189236431,
+        "location": "Coatepeque",
+        "latitude": 13.874701439365655,
+        "longitude": -89.56823965475378,
         "environment": "Lago",
         "stars": 4.9,
         "images": [
@@ -2390,13 +2391,14 @@
             "",
             ""
         ]
-    },
+    }
+    ,
     {
         "id": 130,
         "accommodation": "Villa Los Pinos",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.872054199792512,
-        "longitude": -89.5203822562906,
+        "location": "El Congo",
+        "latitude": 13.871938872120351,
+        "longitude": -89.52036051258925,
         "environment": "Lago",
         "stars": 3.8,
         "images": [
@@ -2409,13 +2411,14 @@
             "La ruta tiene buena vista panorámica sueper hermosa con aire muy rico..",
             ""
         ]
-    },
-     {
+    }
+    ,
+    {
         "id": 131,
         "accommodation": "Casa de adobe",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.876701629413523,
-        "longitude": -89.51709257282316,
+        "location": "Coatepeque",
+        "latitude": 13.876490761665243,
+        "longitude": -89.51704939035746,
         "environment": "Lago",
         "stars": 5.0,
         "images": [
@@ -2428,14 +2431,15 @@
             "",
             ""
         ]
-    },
+    }
+    ,
     {
         "id": 132,
         "accommodation": "Cabaña Reflejo del Cielo",
         "location": "Lago de Coatepeque",
-        "latitude": 13.878836858512976,
-        "longitude": -89.5182292560257,
-        "environment": "Lago",
+        "latitude": 13.878637676572993,
+        "longitude": -89.51821237617709,
+        "environment": "Otro",
         "stars": 4.6,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730069190/Coatepeque/o3mvsonoadz1eppmtwxe.jpg",
@@ -2447,13 +2451,14 @@
             "Un lugar muy atractivo para pasarla en familia con piscina",
             "Una de las cosas que me gustó es que se puede llevar la mascota un lugar muy seguro, para tomarse unas vacaciones"
         ]
-    },
+    }
+    ,
     {
         "id": 133,
         "accommodation": "Amacuilco Hostal",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.893761671388093,
-        "longitude": -89.5243078942011,
+        "location": "Coatepeque",
+        "latitude": 13.893550618554027,
+        "longitude": -89.52438482514283,
         "environment": "Lago",
         "stars": 4.0,
         "images": [
@@ -2471,9 +2476,9 @@
     {
         "id": 134,
         "accommodation": "Monte Carlo",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.865888090840064,
-        "longitude": -89.52073054747656,
+        "location": "Coatepeque",
+        "latitude": 13.865683614368047,
+        "longitude": -89.52080565232524,
         "environment": "Lago",
         "stars": 4.9,
         "images": [
@@ -2491,9 +2496,9 @@
     {
         "id": 135,
         "accommodation": "LAS PIEDRAS",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.856216020286784,
-        "longitude": -89.5258800464064,
+        "location": "Coatepeque",
+        "latitude": 13.856019467675504,
+        "longitude": -89.52587281720157,
         "environment": "Lago",
         "stars": 5.0,
         "images": [
@@ -2512,9 +2517,9 @@
         "id": 136,
         "accommodation": "Mirador El Congo",
         "location": "El Congo",
-        "latitude": 13.852646485085394,
-        "longitude": -89.52187978415621,
-        "environment": "Otros",
+        "latitude": 13.852448937833342,
+        "longitude": -89.52187581288116,
+        "environment": "Otro",
         "stars": 4.5,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730072852/Coatepeque/upillrthtaaeplmxfj3s.jpg",
@@ -2532,9 +2537,9 @@
         "id": 137,
         "accommodation": "Quinta Piedradura",
         "location": "Lago de Coatepeque",
-        "latitude": 13.834899677454063,
-        "longitude": -89.55343683774822,
-        "environment": "Lago",
+        "latitude": 13.834730234496984,
+        "longitude": -89.5533706788832,
+        "environment": "Otro",
         "stars": 4.8,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730079182/Coatepeque/ofo2nizqdtpyaw6knuly.jpg",
@@ -2551,9 +2556,9 @@
     {
         "id": 138,
         "accommodation": "Coatepeque Lake Cabinets",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.834501147488513,
-        "longitude": -89.56076212662462,
+        "location": "Coatepeque",
+        "latitude": 13.834190508435745,
+        "longitude": -89.56081455242463,
         "environment": "Lago",
         "stars": 4.5,
         "images": [
@@ -2572,9 +2577,9 @@
         "id": 139,
         "accommodation": "Montelago",
         "location": "Lago de Coatepeque",
-        "latitude": 13.835383948211676,
-        "longitude": -89.5669512841222,
-        "environment": "Lago",
+        "latitude": 13.83522196577328,
+        "longitude": -89.56684448619255,
+        "environment": "Otro",
         "stars": 4.6,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730079963/Coatepeque/abzbhd5uh7naj1dgdlc3.jpg",
@@ -2590,9 +2595,9 @@
     {
         "id": 140,
         "accommodation": "Hotel Equinoccio",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.850165684878014,
-        "longitude": -89.5677710966918,
+        "location": "El Congo",
+        "latitude": 13.849924797940073,
+        "longitude": -89.56772022375083,
         "environment": "Lago",
         "stars": 4.2,
         "images": [
@@ -2611,9 +2616,9 @@
         "id": 141,
         "accommodation": "Quinta Sandoval",
         "location": "Lago de Coatepeque",
-        "latitude": 13.853598023147699,
-        "longitude": -89.56953864390141,
-        "environment": "Lago",
+        "latitude": 13.853455833114493,
+        "longitude": -89.56951220465784,
+        "environment": "Otro",
         "stars": 4.9,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730081982/Coatepeque/vjrriyk73up3gvtkawtt.jpg",
@@ -2630,9 +2635,9 @@
     {
         "id": 142,
         "accommodation": "rancho el triunfo",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.862356425972461,
-        "longitude": -89.5731810360456,
+        "location": "Coatepeque",
+        "latitude": 13.862124323405101,
+        "longitude": -89.57316966300957,
         "environment": "Lago",
         "stars": 4.8,
         "images": [
@@ -2650,9 +2655,9 @@
     {
         "id": 143,
         "accommodation": "Casa Conacaste",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.864426070153847,
-        "longitude": -89.57348718332769,
+        "location": "Coatepeque",
+        "latitude": 13.864163185200812,
+        "longitude": -89.57346827918214,
         "environment": "Lago",
         "stars": 4.3,
         "images": [
@@ -2670,10 +2675,10 @@
     {
         "id": 144,
         "accommodation": "Quinta Avanti",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.868602860401392,
-        "longitude": -89.57270393075325,
-        "environment": "Lago",
+        "location": "Coatepeque",
+        "latitude": 13.868397567894615,
+        "longitude": -89.5727075238964,
+        "environment": "Otro",
         "stars": 4.0,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730083575/Coatepeque/okza2f1eyi2akwqlxvuc.jpg",
@@ -2689,10 +2694,10 @@
     {
         "id": 145,
         "accommodation": "Quinta Roca Linda",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.867151808357125,
-        "longitude": -89.57391553837195,
-        "environment": "Lago",
+        "location": "Coatepeque",
+        "latitude": 13.867080586650928,
+        "longitude": -89.57392156797249,
+        "environment": "Otro",
         "stars": 4.8,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730133978/Coatepeque/jbya7ejwcv9qrggwns1d.png",
@@ -2709,9 +2714,9 @@
         "id": 146,
         "accommodation": "Quinta Macallan",
         "location": "Lago de Coatepeque",
-        "latitude": 13.872300919500384,
-        "longitude": -89.56915809778752,
-        "environment": "Lago",
+        "latitude": 13.872267828942634,
+        "longitude": -89.56914238647715,
+        "environment": "Otro",
         "stars": 4.9,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730134999/Coatepeque/kahmkt0vokjzpuorm0c4.png",
@@ -2727,9 +2732,9 @@
     {
         "id": 147,
         "accommodation": "Vista Turquesa El Salvador",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.873940835354277,
-        "longitude": -89.56876562103062,
+        "location": "Coatepeque",
+        "latitude": 13.873864326519232,
+        "longitude": -89.56874086285968,
         "environment": "Lago",
         "stars": 4.8,
         "images": [
@@ -2748,10 +2753,10 @@
     {
         "id": 148,
         "accommodation": "Quinta Emperador",
-        "location": "Lago de Coatepeque",
-        "latitude": 13.875314158486292,
-        "longitude": -89.56825442094427,
-        "environment": "Lago",
+        "location": "El Congo",
+        "latitude": 13.87522094277327,
+        "longitude": -89.56822833129941,
+        "environment": "Otro",
         "stars": 4.1,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730135844/Coatepeque/uwxxu3knewfjo8jxx50f.png",
@@ -2769,8 +2774,8 @@
         "id": 149,
         "accommodation": "Antiguo Casco, Hacienda San Agustin",
         "location": "San Pedro Perulapan",
-        "latitude": 13.707430511822356,
-        "longitude": -89.01332646631822,
+        "latitude": 13.704880970038438,
+        "longitude": -89.01390341224968,
         "environment": "Lago",
         "stars": 4.9,
         "images": [
@@ -2788,8 +2793,8 @@
         "id": 150,
         "accommodation": "Casa Montenegro",
         "location": "San Pedro Perulapan",
-        "latitude": 13.700986961138344,
-        "longitude": -89.01210132155222,
+        "latitude": 13.699219483139796,
+        "longitude": -89.01250274368797,
         "environment": "Lago",
         "stars": 4.7,
         "images": [
@@ -2807,9 +2812,9 @@
         "id": 151,
         "accommodation": "Casa de oración Santísima Trinidad",
         "location": "Candelaria",
-        "latitude": 13.681145109809417,
-        "longitude": -88.98289163998352,
-        "environment": "Otros",
+        "latitude": 13.679878014247564,
+        "longitude": -88.98225510667916,
+        "environment": "Otro",
         "stars": 4.7,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730137825/Coatepeque/zn6q9edn2x3dbjycnloo.png",
@@ -2826,8 +2831,8 @@
         "id": 152,
         "accommodation": "Camping La joya de Apancino ",
         "location": "Candelaria",
-        "latitude": 13.680512649330106,
-        "longitude": -88.99098210906324,
+        "latitude": 13.679749201976318,
+        "longitude": -88.99099545642571,
         "environment": "Otro",
         "stars": 4.8,
         "images": [
@@ -2845,8 +2850,8 @@
         "id": 153,
         "accommodation": "Hostal y restaurante San Carlos",
         "location": "San juan Tepezontes",
-        "latitude": 13.623803204286228, 
-        "longitude": -89.0083766576902,
+        "latitude": 13.620878416821222, 
+        "longitude": -89.00865113517078,
         "environment": "Lago",
         "stars": 4.4,
         "images": [
@@ -2864,8 +2869,8 @@
         "id": 154,
         "accommodation": "Las Tres Piedras",
         "location": "Chinameca",
-        "latitude": 13.625276262939936,
-        "longitude": -89.07183513930829,
+        "latitude": 13.623581566649307,
+        "longitude": -89.07254267504969,
         "environment": "Lago",
         "stars": 4.5,
         "images": [
@@ -2883,8 +2888,8 @@
         "id": 155,
         "accommodation": "Victory Paradise Camping & Hiking",
         "location": "Chinameca",
-        "latitude": 13.634806934612364,
-        "longitude": -89.06471249355037,
+        "latitude": 13.633924127470166,
+        "longitude": -89.06460818832329,
         "environment": "Otros",
         "stars": 0.0,
         "images": [
@@ -2902,9 +2907,9 @@
         "id": 156,
         "accommodation": "Ranch MTorres",
         "location": "Chinameca",
-        "latitude": 13.637349974529906,
-        "longitude": -89.08018598623333,
-        "environment": "Lago",
+        "latitude": 13.636211982555166,
+        "longitude": -89.08018619754962,
+        "environment": "Otro",
         "stars": 3.0,
         "images": [
             "https://res.cloudinary.com/dafganm7o/image/upload/v1730147158/Ilopango/dsv3vhmys4wsqm0qhddq.png",
@@ -2921,8 +2926,8 @@
         "id": 157,
         "accommodation": "Hotel y Restaurante El Faro",
         "location": "Lago de Ilopango",
-        "latitude": 13.69103606396589,
-        "longitude": -89.09092003502921,
+        "latitude": 13.690288440631356,
+        "longitude": -89.09103316055757,
         "environment": "Lago",
         "stars": 4.1,
         "images": [
@@ -2940,8 +2945,8 @@
         "id": 158,
         "accommodation": "Vía Vela Ilopango",
         "location": "Lago de Ilopango",
-        "latitude": 13.698989955434552,
-        "longitude": -89.08051655788108,
+        "latitude": 13.698315405565266,
+        "longitude": -89.08042915985861,
         "environment": "Otro",
         "stars": 4.4,
         "images": [
@@ -2959,8 +2964,8 @@
         "id": 159,
         "accommodation": "Hotel Familiar Apulo Ilopango",
         "location": "Lago de Ilopango",
-        "latitude": 13.700847244230026,
-        "longitude": -89.07838464714746,
+        "latitude": 13.700537804739366,
+        "longitude": -89.0781856525022,
         "environment": "Lago",
         "stars": 4.0,
         "images": [
