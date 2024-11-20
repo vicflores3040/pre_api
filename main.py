@@ -7,9 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-origins = [
-    "http://localhost:3000",
-]
+origins = ["http://localhost:3000", "https://pre-webapp.vercel.app"]
 
 app.title = "Preespecialidad API - UTEC"
 app.version = "0.0.1"
