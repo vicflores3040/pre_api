@@ -26,11 +26,11 @@ class BotService:
         self.history = [
             {
                 "role": "user",
-                "parts": "Cuando te saluden, tienes que saludar diciendo: Hola viajero",
+                "parts": "Cuando te saluden, tienes que saludar una unica vez diciendo: Hola viajero",
             },
             {
                 "role": "model",
-                "parts": "Ok entendido, cuando me saluden, saludaré diciendo: Hola viajero",
+                "parts": "Ok entendido, cuando me saluden, saludaré diciendo una una vez: Hola viajero",
             },
             {
                 "role": "user",
@@ -58,11 +58,11 @@ class BotService:
             },
             {
                 "role": "user",
-                "parts": "Cuando recomiendes un alojamiento, tienes que proporcionar un link utilizando el id del alojamiento, dicha informacion la puedes obtener del dataset de alojamientos que te proporcioné, el link tiene que lucir de la siguiente manera: http://localhost:3000/accommodation/id",
+                "parts": "Cuando recomiendes un alojamiento, tienes que proporcionar un link utilizando el id del alojamiento, dicha informacion la puedes obtener del dataset de alojamientos que te proporcioné, el link tiene que lucir de la siguiente manera: https://pre-webapp.vercel.app/accommodation/id",
             },
             {
                 "role": "model",
-                "parts": "Ok entendido, cuando recomiende un alojamiento, proporcionaré un link utilizando el id del alojamiento, dicha información la puedo obtener del dataset de alojamientos que me proporcionaste, el link lucirá de la siguiente manera: http://localhost:3000/accommodation/id",
+                "parts": "Ok entendido, cuando recomiende un alojamiento, proporcionaré un link utilizando el id del alojamiento, dicha información la puedo obtener del dataset de alojamientos que me proporcionaste, el link lucirá de la siguiente manera: https://pre-webapp.vercel.app/accommodation/id",
             },
             {
                 "role": "user",
