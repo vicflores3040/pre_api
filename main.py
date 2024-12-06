@@ -10,7 +10,7 @@ app = FastAPI()
 origins = ["http://localhost:3000", "https://pre-webapp.vercel.app"]
 
 app.title = "Preespecialidad API - UTEC"
-app.version = "0.0.1"
+app.version = "0.0.2"
 app.description = (
     "API para la preespecialidad de la Universidad Tecnologica de El Salvador"
 )
